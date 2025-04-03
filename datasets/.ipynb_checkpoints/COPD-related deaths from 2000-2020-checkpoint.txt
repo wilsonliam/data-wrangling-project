@@ -1,0 +1,895 @@
+"Notes"	"Year"	"Year Code"	"State"	"State Code"	"Race"	"Race Code"	"Sex"	"Sex Code"	Deaths	Population	Crude Rate
+	"2000"	"2000"	"California"	"06"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	506	234644	215.6
+	"2000"	"2000"	"California"	"06"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	517	238048	217.2
+"Total"	"2000"	"2000"	"California"	"06"	"American Indian or Alaska Native"	"1002-5"			1023	472692	216.4
+	"2000"	"2000"	"California"	"06"	"Asian or Pacific Islander"	"A-PI"	"Female"	"F"	6745	2138139	315.5
+	"2000"	"2000"	"California"	"06"	"Asian or Pacific Islander"	"A-PI"	"Male"	"M"	8077	1994891	404.9
+"Total"	"2000"	"2000"	"California"	"06"	"Asian or Pacific Islander"	"A-PI"			14822	4133030	358.6
+	"2000"	"2000"	"California"	"06"	"Black or African American"	"2054-5"	"Female"	"F"	8553	1282820	666.7
+	"2000"	"2000"	"California"	"06"	"Black or African American"	"2054-5"	"Male"	"M"	9260	1234115	750.3
+"Total"	"2000"	"2000"	"California"	"06"	"Black or African American"	"2054-5"			17813	2516935	707.7
+	"2000"	"2000"	"California"	"06"	"White"	"2106-3"	"Female"	"F"	98988	13341153	742.0
+	"2000"	"2000"	"California"	"06"	"White"	"2106-3"	"Male"	"M"	96905	13407838	722.7
+"Total"	"2000"	"2000"	"California"	"06"	"White"	"2106-3"			195893	26748991	732.3
+"Total"	"2000"	"2000"	"California"	"06"					229551	33871648	677.7
+	"2000"	"2000"	"Oregon"	"41"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	126	28605	440.5
+	"2000"	"2000"	"Oregon"	"41"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	119	28446	418.3
+"Total"	"2000"	"2000"	"Oregon"	"41"	"American Indian or Alaska Native"	"1002-5"			245	57051	429.4
+	"2000"	"2000"	"Oregon"	"41"	"Asian or Pacific Islander"	"A-PI"	"Female"	"F"	168	64202	261.7
+	"2000"	"2000"	"Oregon"	"41"	"Asian or Pacific Islander"	"A-PI"	"Male"	"M"	166	58635	283.1
+"Total"	"2000"	"2000"	"Oregon"	"41"	"Asian or Pacific Islander"	"A-PI"			334	122837	271.9
+	"2000"	"2000"	"Oregon"	"41"	"Black or African American"	"2054-5"	"Female"	"F"	156	32431	481.0
+	"2000"	"2000"	"Oregon"	"41"	"Black or African American"	"2054-5"	"Male"	"M"	226	36720	615.5
+"Total"	"2000"	"2000"	"Oregon"	"41"	"Black or African American"	"2054-5"			382	69151	552.4
+	"2000"	"2000"	"Oregon"	"41"	"White"	"2106-3"	"Female"	"F"	14605	1599611	913.0
+	"2000"	"2000"	"Oregon"	"41"	"White"	"2106-3"	"Male"	"M"	13986	1572749	889.3
+"Total"	"2000"	"2000"	"Oregon"	"41"	"White"	"2106-3"			28591	3172360	901.3
+"Total"	"2000"	"2000"	"Oregon"	"41"					29552	3421399	863.7
+	"2000"	"2000"	"Washington"	"53"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	263	56325	466.9
+	"2000"	"2000"	"Washington"	"53"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	256	55681	459.8
+"Total"	"2000"	"2000"	"Washington"	"53"	"American Indian or Alaska Native"	"1002-5"			519	112006	463.4
+	"2000"	"2000"	"Washington"	"53"	"Asian or Pacific Islander"	"A-PI"	"Female"	"F"	492	203896	241.3
+	"2000"	"2000"	"Washington"	"53"	"Asian or Pacific Islander"	"A-PI"	"Male"	"M"	596	181285	328.8
+"Total"	"2000"	"2000"	"Washington"	"53"	"Asian or Pacific Islander"	"A-PI"			1088	385181	282.5
+	"2000"	"2000"	"Washington"	"53"	"Black or African American"	"2054-5"	"Female"	"F"	505	107637	469.2
+	"2000"	"2000"	"Washington"	"53"	"Black or African American"	"2054-5"	"Male"	"M"	592	122459	483.4
+"Total"	"2000"	"2000"	"Washington"	"53"	"Black or African American"	"2054-5"			1097	230096	476.8
+	"2000"	"2000"	"Washington"	"53"	"White"	"2106-3"	"Female"	"F"	20824	2591963	803.4
+	"2000"	"2000"	"Washington"	"53"	"White"	"2106-3"	"Male"	"M"	20413	2574875	792.8
+"Total"	"2000"	"2000"	"Washington"	"53"	"White"	"2106-3"			41237	5166838	798.1
+"Total"	"2000"	"2000"	"Washington"	"53"					43941	5894121	745.5
+"Total"	"2000"	"2000"							303044	43187168	701.7
+	"2001"	"2001"	"California"	"06"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	493	245857	200.5
+	"2001"	"2001"	"California"	"06"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	546	249208	219.1
+"Total"	"2001"	"2001"	"California"	"06"	"American Indian or Alaska Native"	"1002-5"			1039	495065	209.9
+	"2001"	"2001"	"California"	"06"	"Asian or Pacific Islander"	"A-PI"	"Female"	"F"	7325	2246221	326.1
+	"2001"	"2001"	"California"	"06"	"Asian or Pacific Islander"	"A-PI"	"Male"	"M"	8351	2092159	399.2
+"Total"	"2001"	"2001"	"California"	"06"	"Asian or Pacific Islander"	"A-PI"			15676	4338380	361.3
+	"2001"	"2001"	"California"	"06"	"Black or African American"	"2054-5"	"Female"	"F"	8825	1296780	680.5
+	"2001"	"2001"	"California"	"06"	"Black or African American"	"2054-5"	"Male"	"M"	9563	1251049	764.4
+"Total"	"2001"	"2001"	"California"	"06"	"Black or African American"	"2054-5"			18388	2547829	721.7
+	"2001"	"2001"	"California"	"06"	"White"	"2106-3"	"Female"	"F"	100672	13505365	745.4
+	"2001"	"2001"	"California"	"06"	"White"	"2106-3"	"Male"	"M"	98269	13592819	722.9
+"Total"	"2001"	"2001"	"California"	"06"	"White"	"2106-3"			198941	27098184	734.1
+"Total"	"2001"	"2001"	"California"	"06"					234044	34479458	678.8
+	"2001"	"2001"	"Oregon"	"41"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	124	29674	417.9
+	"2001"	"2001"	"Oregon"	"41"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	133	29372	452.8
+"Total"	"2001"	"2001"	"Oregon"	"41"	"American Indian or Alaska Native"	"1002-5"			257	59046	435.3
+	"2001"	"2001"	"Oregon"	"41"	"Asian or Pacific Islander"	"A-PI"	"Female"	"F"	185	68090	271.7
+	"2001"	"2001"	"Oregon"	"41"	"Asian or Pacific Islander"	"A-PI"	"Male"	"M"	160	62003	258.1
+"Total"	"2001"	"2001"	"Oregon"	"41"	"Asian or Pacific Islander"	"A-PI"			345	130093	265.2
+	"2001"	"2001"	"Oregon"	"41"	"Black or African American"	"2054-5"	"Female"	"F"	171	33774	506.3
+	"2001"	"2001"	"Oregon"	"41"	"Black or African American"	"2054-5"	"Male"	"M"	212	38232	554.5
+"Total"	"2001"	"2001"	"Oregon"	"41"	"Black or African American"	"2054-5"			383	72006	531.9
+	"2001"	"2001"	"Oregon"	"41"	"White"	"2106-3"	"Female"	"F"	14969	1616351	926.1
+	"2001"	"2001"	"Oregon"	"41"	"White"	"2106-3"	"Male"	"M"	14204	1590441	893.1
+"Total"	"2001"	"2001"	"Oregon"	"41"	"White"	"2106-3"			29173	3206792	909.7
+"Total"	"2001"	"2001"	"Oregon"	"41"					30158	3467937	869.6
+	"2001"	"2001"	"Washington"	"53"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	286	57761	495.1
+	"2001"	"2001"	"Washington"	"53"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	290	57360	505.6
+"Total"	"2001"	"2001"	"Washington"	"53"	"American Indian or Alaska Native"	"1002-5"			576	115121	500.3
+	"2001"	"2001"	"Washington"	"53"	"Asian or Pacific Islander"	"A-PI"	"Female"	"F"	578	216509	267.0
+	"2001"	"2001"	"Washington"	"53"	"Asian or Pacific Islander"	"A-PI"	"Male"	"M"	634	191971	330.3
+"Total"	"2001"	"2001"	"Washington"	"53"	"Asian or Pacific Islander"	"A-PI"			1212	408480	296.7
+	"2001"	"2001"	"Washington"	"53"	"Black or African American"	"2054-5"	"Female"	"F"	455	111629	407.6
+	"2001"	"2001"	"Washington"	"53"	"Black or African American"	"2054-5"	"Male"	"M"	609	127407	478.0
+"Total"	"2001"	"2001"	"Washington"	"53"	"Black or African American"	"2054-5"			1064	239036	445.1
+	"2001"	"2001"	"Washington"	"53"	"White"	"2106-3"	"Female"	"F"	21296	2616181	814.0
+	"2001"	"2001"	"Washington"	"53"	"White"	"2106-3"	"Male"	"M"	20494	2606904	786.1
+"Total"	"2001"	"2001"	"Washington"	"53"	"White"	"2106-3"			41790	5223085	800.1
+"Total"	"2001"	"2001"	"Washington"	"53"					44642	5985722	745.8
+"Total"	"2001"	"2001"							308844	43933117	703.0
+	"2002"	"2002"	"California"	"06"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	490	254854	192.3
+	"2002"	"2002"	"California"	"06"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	570	258147	220.8
+"Total"	"2002"	"2002"	"California"	"06"	"American Indian or Alaska Native"	"1002-5"			1060	513001	206.6
+	"2002"	"2002"	"California"	"06"	"Asian or Pacific Islander"	"A-PI"	"Female"	"F"	7545	2325320	324.5
+	"2002"	"2002"	"California"	"06"	"Asian or Pacific Islander"	"A-PI"	"Male"	"M"	8516	2157178	394.8
+"Total"	"2002"	"2002"	"California"	"06"	"Asian or Pacific Islander"	"A-PI"			16061	4482498	358.3
+	"2002"	"2002"	"California"	"06"	"Black or African American"	"2054-5"	"Female"	"F"	8970	1306520	686.6
+	"2002"	"2002"	"California"	"06"	"Black or African American"	"2054-5"	"Male"	"M"	9756	1260806	773.8
+"Total"	"2002"	"2002"	"California"	"06"	"Black or African American"	"2054-5"			18726	2567326	729.4
+	"2002"	"2002"	"California"	"06"	"White"	"2106-3"	"Female"	"F"	100015	13611768	734.8
+	"2002"	"2002"	"California"	"06"	"White"	"2106-3"	"Male"	"M"	98703	13697250	720.6
+"Total"	"2002"	"2002"	"California"	"06"	"White"	"2106-3"			198718	27309018	727.7
+"Total"	"2002"	"2002"	"California"	"06"					234565	34871843	672.6
+	"2002"	"2002"	"Oregon"	"41"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	138	30559	451.6
+	"2002"	"2002"	"Oregon"	"41"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	157	30405	516.4
+"Total"	"2002"	"2002"	"Oregon"	"41"	"American Indian or Alaska Native"	"1002-5"			295	60964	483.9
+	"2002"	"2002"	"Oregon"	"41"	"Asian or Pacific Islander"	"A-PI"	"Female"	"F"	163	71289	228.6
+	"2002"	"2002"	"Oregon"	"41"	"Asian or Pacific Islander"	"A-PI"	"Male"	"M"	172	64552	266.5
+"Total"	"2002"	"2002"	"Oregon"	"41"	"Asian or Pacific Islander"	"A-PI"			335	135841	246.6
+	"2002"	"2002"	"Oregon"	"41"	"Black or African American"	"2054-5"	"Female"	"F"	174	34936	498.1
+	"2002"	"2002"	"Oregon"	"41"	"Black or African American"	"2054-5"	"Male"	"M"	208	39604	525.2
+"Total"	"2002"	"2002"	"Oregon"	"41"	"Black or African American"	"2054-5"			382	74540	512.5
+	"2002"	"2002"	"Oregon"	"41"	"White"	"2106-3"	"Female"	"F"	15340	1634342	938.6
+	"2002"	"2002"	"Oregon"	"41"	"White"	"2106-3"	"Male"	"M"	14767	1607737	918.5
+"Total"	"2002"	"2002"	"Oregon"	"41"	"White"	"2106-3"			30107	3242079	928.6
+"Total"	"2002"	"2002"	"Oregon"	"41"					31119	3513424	885.7
+	"2002"	"2002"	"Washington"	"53"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	274	58999	464.4
+	"2002"	"2002"	"Washington"	"53"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	299	58690	509.5
+"Total"	"2002"	"2002"	"Washington"	"53"	"American Indian or Alaska Native"	"1002-5"			573	117689	486.9
+	"2002"	"2002"	"Washington"	"53"	"Asian or Pacific Islander"	"A-PI"	"Female"	"F"	624	226289	275.8
+	"2002"	"2002"	"Washington"	"53"	"Asian or Pacific Islander"	"A-PI"	"Male"	"M"	708	200393	353.3
+"Total"	"2002"	"2002"	"Washington"	"53"	"Asian or Pacific Islander"	"A-PI"			1332	426682	312.2
+	"2002"	"2002"	"Washington"	"53"	"Black or African American"	"2054-5"	"Female"	"F"	509	114957	442.8
+	"2002"	"2002"	"Washington"	"53"	"Black or African American"	"2054-5"	"Male"	"M"	629	130912	480.5
+"Total"	"2002"	"2002"	"Washington"	"53"	"Black or African American"	"2054-5"			1138	245869	462.8
+	"2002"	"2002"	"Washington"	"53"	"White"	"2106-3"	"Female"	"F"	21307	2636497	808.2
+	"2002"	"2002"	"Washington"	"53"	"White"	"2106-3"	"Male"	"M"	20988	2625612	799.4
+"Total"	"2002"	"2002"	"Washington"	"53"	"White"	"2106-3"			42295	5262109	803.8
+"Total"	"2002"	"2002"	"Washington"	"53"					45338	6052349	749.1
+"Total"	"2002"	"2002"							311022	44437616	699.9
+	"2003"	"2003"	"California"	"06"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	543	265998	204.1
+	"2003"	"2003"	"California"	"06"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	704	268794	261.9
+"Total"	"2003"	"2003"	"California"	"06"	"American Indian or Alaska Native"	"1002-5"			1247	534792	233.2
+	"2003"	"2003"	"California"	"06"	"Asian or Pacific Islander"	"A-PI"	"Female"	"F"	7918	2401971	329.6
+	"2003"	"2003"	"California"	"06"	"Asian or Pacific Islander"	"A-PI"	"Male"	"M"	8879	2219287	400.1
+"Total"	"2003"	"2003"	"California"	"06"	"Asian or Pacific Islander"	"A-PI"			16797	4621258	363.5
+	"2003"	"2003"	"California"	"06"	"Black or African American"	"2054-5"	"Female"	"F"	9063	1316660	688.3
+	"2003"	"2003"	"California"	"06"	"Black or African American"	"2054-5"	"Male"	"M"	9825	1268907	774.3
+"Total"	"2003"	"2003"	"California"	"06"	"Black or African American"	"2054-5"			18888	2585567	730.5
+	"2003"	"2003"	"California"	"06"	"White"	"2106-3"	"Female"	"F"	101655	13724880	740.7
+	"2003"	"2003"	"California"	"06"	"White"	"2106-3"	"Male"	"M"	100784	13786662	731.0
+"Total"	"2003"	"2003"	"California"	"06"	"White"	"2106-3"			202439	27511542	735.8
+"Total"	"2003"	"2003"	"California"	"06"					239371	35253159	679.0
+	"2003"	"2003"	"Oregon"	"41"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	136	31670	429.4
+	"2003"	"2003"	"Oregon"	"41"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	158	31327	504.4
+"Total"	"2003"	"2003"	"Oregon"	"41"	"American Indian or Alaska Native"	"1002-5"			294	62997	466.7
+	"2003"	"2003"	"Oregon"	"41"	"Asian or Pacific Islander"	"A-PI"	"Female"	"F"	206	73920	278.7
+	"2003"	"2003"	"Oregon"	"41"	"Asian or Pacific Islander"	"A-PI"	"Male"	"M"	187	66954	279.3
+"Total"	"2003"	"2003"	"Oregon"	"41"	"Asian or Pacific Islander"	"A-PI"			393	140874	279.0
+	"2003"	"2003"	"Oregon"	"41"	"Black or African American"	"2054-5"	"Female"	"F"	160	35761	447.4
+	"2003"	"2003"	"Oregon"	"41"	"Black or African American"	"2054-5"	"Male"	"M"	233	40490	575.5
+"Total"	"2003"	"2003"	"Oregon"	"41"	"Black or African American"	"2054-5"			393	76251	515.4
+	"2003"	"2003"	"Oregon"	"41"	"White"	"2106-3"	"Female"	"F"	15193	1647454	922.2
+	"2003"	"2003"	"Oregon"	"41"	"White"	"2106-3"	"Male"	"M"	14639	1619800	903.8
+"Total"	"2003"	"2003"	"Oregon"	"41"	"White"	"2106-3"			29832	3267254	913.1
+"Total"	"2003"	"2003"	"Oregon"	"41"					30912	3547376	871.4
+	"2003"	"2003"	"Washington"	"53"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	300	60495	495.9
+	"2003"	"2003"	"Washington"	"53"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	335	60123	557.2
+"Total"	"2003"	"2003"	"Washington"	"53"	"American Indian or Alaska Native"	"1002-5"			635	120618	526.5
+	"2003"	"2003"	"Washington"	"53"	"Asian or Pacific Islander"	"A-PI"	"Female"	"F"	705	235447	299.4
+	"2003"	"2003"	"Washington"	"53"	"Asian or Pacific Islander"	"A-PI"	"Male"	"M"	699	207966	336.1
+"Total"	"2003"	"2003"	"Washington"	"53"	"Asian or Pacific Islander"	"A-PI"			1404	443413	316.6
+	"2003"	"2003"	"Washington"	"53"	"Black or African American"	"2054-5"	"Female"	"F"	505	117809	428.7
+	"2003"	"2003"	"Washington"	"53"	"Black or African American"	"2054-5"	"Male"	"M"	708	133116	531.9
+"Total"	"2003"	"2003"	"Washington"	"53"	"Black or African American"	"2054-5"			1213	250925	483.4
+	"2003"	"2003"	"Washington"	"53"	"White"	"2106-3"	"Female"	"F"	21711	2651988	818.7
+	"2003"	"2003"	"Washington"	"53"	"White"	"2106-3"	"Male"	"M"	20957	2637171	794.7
+"Total"	"2003"	"2003"	"Washington"	"53"	"White"	"2106-3"			42668	5289159	806.7
+"Total"	"2003"	"2003"	"Washington"	"53"					45920	6104115	752.3
+"Total"	"2003"	"2003"							316203	44904650	704.2
+	"2004"	"2004"	"California"	"06"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	590	277479	212.6
+	"2004"	"2004"	"California"	"06"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	665	280131	237.4
+"Total"	"2004"	"2004"	"California"	"06"	"American Indian or Alaska Native"	"1002-5"			1255	557610	225.1
+	"2004"	"2004"	"California"	"06"	"Asian or Pacific Islander"	"A-PI"	"Female"	"F"	7960	2472068	322.0
+	"2004"	"2004"	"California"	"06"	"Asian or Pacific Islander"	"A-PI"	"Male"	"M"	8898	2278079	390.6
+"Total"	"2004"	"2004"	"California"	"06"	"Asian or Pacific Islander"	"A-PI"			16858	4750147	354.9
+	"2004"	"2004"	"California"	"06"	"Black or African American"	"2054-5"	"Female"	"F"	8936	1324558	674.6
+	"2004"	"2004"	"California"	"06"	"Black or African American"	"2054-5"	"Male"	"M"	9749	1278594	762.5
+"Total"	"2004"	"2004"	"California"	"06"	"Black or African American"	"2054-5"			18685	2603152	717.8
+	"2004"	"2004"	"California"	"06"	"White"	"2106-3"	"Female"	"F"	98061	13797310	710.7
+	"2004"	"2004"	"California"	"06"	"White"	"2106-3"	"Male"	"M"	97666	13866357	704.3
+"Total"	"2004"	"2004"	"California"	"06"	"White"	"2106-3"			195727	27663667	707.5
+"Total"	"2004"	"2004"	"California"	"06"					232525	35574576	653.6
+	"2004"	"2004"	"Oregon"	"41"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	139	32573	426.7
+	"2004"	"2004"	"Oregon"	"41"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	167	32487	514.1
+"Total"	"2004"	"2004"	"Oregon"	"41"	"American Indian or Alaska Native"	"1002-5"			306	65060	470.3
+	"2004"	"2004"	"Oregon"	"41"	"Asian or Pacific Islander"	"A-PI"	"Female"	"F"	197	76182	258.6
+	"2004"	"2004"	"Oregon"	"41"	"Asian or Pacific Islander"	"A-PI"	"Male"	"M"	212	68609	309.0
+"Total"	"2004"	"2004"	"Oregon"	"41"	"Asian or Pacific Islander"	"A-PI"			409	144791	282.5
+	"2004"	"2004"	"Oregon"	"41"	"Black or African American"	"2054-5"	"Female"	"F"	196	36455	537.6
+	"2004"	"2004"	"Oregon"	"41"	"Black or African American"	"2054-5"	"Male"	"M"	217	41219	526.5
+"Total"	"2004"	"2004"	"Oregon"	"41"	"Black or African American"	"2054-5"			413	77674	531.7
+	"2004"	"2004"	"Oregon"	"41"	"White"	"2106-3"	"Female"	"F"	14832	1655167	896.1
+	"2004"	"2004"	"Oregon"	"41"	"White"	"2106-3"	"Male"	"M"	14353	1626771	882.3
+"Total"	"2004"	"2004"	"Oregon"	"41"	"White"	"2106-3"			29185	3281938	889.3
+"Total"	"2004"	"2004"	"Oregon"	"41"					30313	3569463	849.2
+	"2004"	"2004"	"Washington"	"53"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	276	62648	440.6
+	"2004"	"2004"	"Washington"	"53"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	316	61895	510.5
+"Total"	"2004"	"2004"	"Washington"	"53"	"American Indian or Alaska Native"	"1002-5"			592	124543	475.3
+	"2004"	"2004"	"Washington"	"53"	"Asian or Pacific Islander"	"A-PI"	"Female"	"F"	682	245619	277.7
+	"2004"	"2004"	"Washington"	"53"	"Asian or Pacific Islander"	"A-PI"	"Male"	"M"	697	216079	322.6
+"Total"	"2004"	"2004"	"Washington"	"53"	"Asian or Pacific Islander"	"A-PI"			1379	461698	298.7
+	"2004"	"2004"	"Washington"	"53"	"Black or African American"	"2054-5"	"Female"	"F"	467	121175	385.4
+	"2004"	"2004"	"Washington"	"53"	"Black or African American"	"2054-5"	"Male"	"M"	612	136295	449.0
+"Total"	"2004"	"2004"	"Washington"	"53"	"Black or African American"	"2054-5"			1079	257470	419.1
+	"2004"	"2004"	"Washington"	"53"	"White"	"2106-3"	"Female"	"F"	20974	2678373	783.1
+	"2004"	"2004"	"Washington"	"53"	"White"	"2106-3"	"Male"	"M"	20746	2656561	780.9
+"Total"	"2004"	"2004"	"Washington"	"53"	"White"	"2106-3"			41720	5334934	782.0
+"Total"	"2004"	"2004"	"Washington"	"53"					44770	6178645	724.6
+"Total"	"2004"	"2004"							307608	45322684	678.7
+	"2005"	"2005"	"California"	"06"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	559	289539	193.1
+	"2005"	"2005"	"California"	"06"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	667	292338	228.2
+"Total"	"2005"	"2005"	"California"	"06"	"American Indian or Alaska Native"	"1002-5"			1226	581877	210.7
+	"2005"	"2005"	"California"	"06"	"Asian or Pacific Islander"	"A-PI"	"Female"	"F"	8426	2545278	331.0
+	"2005"	"2005"	"California"	"06"	"Asian or Pacific Islander"	"A-PI"	"Male"	"M"	9321	2338986	398.5
+"Total"	"2005"	"2005"	"California"	"06"	"Asian or Pacific Islander"	"A-PI"			17747	4884264	363.4
+	"2005"	"2005"	"California"	"06"	"Black or African American"	"2054-5"	"Female"	"F"	9062	1328963	681.9
+	"2005"	"2005"	"California"	"06"	"Black or African American"	"2054-5"	"Male"	"M"	10054	1286444	781.5
+"Total"	"2005"	"2005"	"California"	"06"	"Black or African American"	"2054-5"			19116	2615407	730.9
+	"2005"	"2005"	"California"	"06"	"White"	"2106-3"	"Female"	"F"	99295	13832450	717.8
+	"2005"	"2005"	"California"	"06"	"White"	"2106-3"	"Male"	"M"	99653	13913945	716.2
+"Total"	"2005"	"2005"	"California"	"06"	"White"	"2106-3"			198948	27746395	717.0
+"Total"	"2005"	"2005"	"California"	"06"					237037	35827943	661.6
+	"2005"	"2005"	"Oregon"	"41"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	128	33856	378.1
+	"2005"	"2005"	"Oregon"	"41"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	160	33755	474.0
+"Total"	"2005"	"2005"	"Oregon"	"41"	"American Indian or Alaska Native"	"1002-5"			288	67611	426.0
+	"2005"	"2005"	"Oregon"	"41"	"Asian or Pacific Islander"	"A-PI"	"Female"	"F"	202	79529	254.0
+	"2005"	"2005"	"Oregon"	"41"	"Asian or Pacific Islander"	"A-PI"	"Male"	"M"	198	71024	278.8
+"Total"	"2005"	"2005"	"Oregon"	"41"	"Asian or Pacific Islander"	"A-PI"			400	150553	265.7
+	"2005"	"2005"	"Oregon"	"41"	"Black or African American"	"2054-5"	"Female"	"F"	177	37434	472.8
+	"2005"	"2005"	"Oregon"	"41"	"Black or African American"	"2054-5"	"Male"	"M"	219	42577	514.4
+"Total"	"2005"	"2005"	"Oregon"	"41"	"Black or African American"	"2054-5"			396	80011	494.9
+	"2005"	"2005"	"Oregon"	"41"	"White"	"2106-3"	"Female"	"F"	15296	1672628	914.5
+	"2005"	"2005"	"Oregon"	"41"	"White"	"2106-3"	"Male"	"M"	14711	1642399	895.7
+"Total"	"2005"	"2005"	"Oregon"	"41"	"White"	"2106-3"			30007	3315027	905.2
+"Total"	"2005"	"2005"	"Oregon"	"41"					31091	3613202	860.5
+	"2005"	"2005"	"Washington"	"53"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	290	64103	452.4
+	"2005"	"2005"	"Washington"	"53"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	349	63856	546.5
+"Total"	"2005"	"2005"	"Washington"	"53"	"American Indian or Alaska Native"	"1002-5"			639	127959	499.4
+	"2005"	"2005"	"Washington"	"53"	"Asian or Pacific Islander"	"A-PI"	"Female"	"F"	703	256394	274.2
+	"2005"	"2005"	"Washington"	"53"	"Asian or Pacific Islander"	"A-PI"	"Male"	"M"	741	225168	329.1
+"Total"	"2005"	"2005"	"Washington"	"53"	"Asian or Pacific Islander"	"A-PI"			1444	481562	299.9
+	"2005"	"2005"	"Washington"	"53"	"Black or African American"	"2054-5"	"Female"	"F"	531	124568	426.3
+	"2005"	"2005"	"Washington"	"53"	"Black or African American"	"2054-5"	"Male"	"M"	715	140168	510.1
+"Total"	"2005"	"2005"	"Washington"	"53"	"Black or African American"	"2054-5"			1246	264736	470.7
+	"2005"	"2005"	"Washington"	"53"	"White"	"2106-3"	"Female"	"F"	21718	2700331	804.3
+	"2005"	"2005"	"Washington"	"53"	"White"	"2106-3"	"Male"	"M"	21156	2682717	788.6
+"Total"	"2005"	"2005"	"Washington"	"53"	"White"	"2106-3"			42874	5383048	796.5
+"Total"	"2005"	"2005"	"Washington"	"53"					46203	6257305	738.4
+"Total"	"2005"	"2005"							314331	45698450	687.8
+	"2006"	"2006"	"California"	"06"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	575	301998	190.4
+	"2006"	"2006"	"California"	"06"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	711	305310	232.9
+"Total"	"2006"	"2006"	"California"	"06"	"American Indian or Alaska Native"	"1002-5"			1286	607308	211.8
+	"2006"	"2006"	"California"	"06"	"Asian or Pacific Islander"	"A-PI"	"Female"	"F"	8814	2615741	337.0
+	"2006"	"2006"	"California"	"06"	"Asian or Pacific Islander"	"A-PI"	"Male"	"M"	9546	2397633	398.1
+"Total"	"2006"	"2006"	"California"	"06"	"Asian or Pacific Islander"	"A-PI"			18360	5013374	366.2
+	"2006"	"2006"	"California"	"06"	"Black or African American"	"2054-5"	"Female"	"F"	9013	1333724	675.8
+	"2006"	"2006"	"California"	"06"	"Black or African American"	"2054-5"	"Male"	"M"	9804	1293213	758.1
+"Total"	"2006"	"2006"	"California"	"06"	"Black or African American"	"2054-5"			18817	2626937	716.3
+	"2006"	"2006"	"California"	"06"	"White"	"2106-3"	"Female"	"F"	98712	13846008	712.9
+	"2006"	"2006"	"California"	"06"	"White"	"2106-3"	"Male"	"M"	99951	13927575	717.6
+"Total"	"2006"	"2006"	"California"	"06"	"White"	"2106-3"			198663	27773583	715.3
+"Total"	"2006"	"2006"	"California"	"06"					237126	36021202	658.3
+	"2006"	"2006"	"Oregon"	"41"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	153	35035	436.7
+	"2006"	"2006"	"Oregon"	"41"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	142	35079	404.8
+"Total"	"2006"	"2006"	"Oregon"	"41"	"American Indian or Alaska Native"	"1002-5"			295	70114	420.7
+	"2006"	"2006"	"Oregon"	"41"	"Asian or Pacific Islander"	"A-PI"	"Female"	"F"	201	83203	241.6
+	"2006"	"2006"	"Oregon"	"41"	"Asian or Pacific Islander"	"A-PI"	"Male"	"M"	220	73975	297.4
+"Total"	"2006"	"2006"	"Oregon"	"41"	"Asian or Pacific Islander"	"A-PI"			421	157178	267.8
+	"2006"	"2006"	"Oregon"	"41"	"Black or African American"	"2054-5"	"Female"	"F"	171	38805	440.7
+	"2006"	"2006"	"Oregon"	"41"	"Black or African American"	"2054-5"	"Male"	"M"	209	44391	470.8
+"Total"	"2006"	"2006"	"Oregon"	"41"	"Black or African American"	"2054-5"			380	83196	456.8
+	"2006"	"2006"	"Oregon"	"41"	"White"	"2106-3"	"Female"	"F"	15392	1696074	907.5
+	"2006"	"2006"	"Oregon"	"41"	"White"	"2106-3"	"Male"	"M"	14892	1664321	894.8
+"Total"	"2006"	"2006"	"Oregon"	"41"	"White"	"2106-3"			30284	3360395	901.2
+"Total"	"2006"	"2006"	"Oregon"	"41"					31380	3670883	854.8
+	"2006"	"2006"	"Washington"	"53"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	321	65960	486.7
+	"2006"	"2006"	"Washington"	"53"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	353	65767	536.7
+"Total"	"2006"	"2006"	"Washington"	"53"	"American Indian or Alaska Native"	"1002-5"			674	131727	511.7
+	"2006"	"2006"	"Washington"	"53"	"Asian or Pacific Islander"	"A-PI"	"Female"	"F"	753	269261	279.7
+	"2006"	"2006"	"Washington"	"53"	"Asian or Pacific Islander"	"A-PI"	"Male"	"M"	823	236568	347.9
+"Total"	"2006"	"2006"	"Washington"	"53"	"Asian or Pacific Islander"	"A-PI"			1576	505829	311.6
+	"2006"	"2006"	"Washington"	"53"	"Black or African American"	"2054-5"	"Female"	"F"	552	129313	426.9
+	"2006"	"2006"	"Washington"	"53"	"Black or African American"	"2054-5"	"Male"	"M"	738	145824	506.1
+"Total"	"2006"	"2006"	"Washington"	"53"	"Black or African American"	"2054-5"			1290	275137	468.9
+	"2006"	"2006"	"Washington"	"53"	"White"	"2106-3"	"Female"	"F"	21668	2736161	791.9
+	"2006"	"2006"	"Washington"	"53"	"White"	"2106-3"	"Male"	"M"	20912	2721899	768.3
+"Total"	"2006"	"2006"	"Washington"	"53"	"White"	"2106-3"			42580	5458060	780.1
+"Total"	"2006"	"2006"	"Washington"	"53"					46120	6370753	723.9
+"Total"	"2006"	"2006"							314626	46062838	683.0
+	"2007"	"2007"	"California"	"06"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	589	315677	186.6
+	"2007"	"2007"	"California"	"06"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	775	320676	241.7
+"Total"	"2007"	"2007"	"California"	"06"	"American Indian or Alaska Native"	"1002-5"			1364	636353	214.3
+	"2007"	"2007"	"California"	"06"	"Asian or Pacific Islander"	"A-PI"	"Female"	"F"	8954	2686179	333.3
+	"2007"	"2007"	"California"	"06"	"Asian or Pacific Islander"	"A-PI"	"Male"	"M"	9842	2456074	400.7
+"Total"	"2007"	"2007"	"California"	"06"	"Asian or Pacific Islander"	"A-PI"			18796	5142253	365.5
+	"2007"	"2007"	"California"	"06"	"Black or African American"	"2054-5"	"Female"	"F"	8993	1338248	672.0
+	"2007"	"2007"	"California"	"06"	"Black or African American"	"2054-5"	"Male"	"M"	9708	1301121	746.1
+"Total"	"2007"	"2007"	"California"	"06"	"Black or African American"	"2054-5"			18701	2639369	708.5
+	"2007"	"2007"	"California"	"06"	"White"	"2106-3"	"Female"	"F"	96624	13874822	696.4
+	"2007"	"2007"	"California"	"06"	"White"	"2106-3"	"Male"	"M"	98235	13957514	703.8
+"Total"	"2007"	"2007"	"California"	"06"	"White"	"2106-3"			194859	27832336	700.1
+"Total"	"2007"	"2007"	"California"	"06"					233720	36250311	644.7
+	"2007"	"2007"	"Oregon"	"41"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	150	36387	412.2
+	"2007"	"2007"	"Oregon"	"41"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	159	36843	431.6
+"Total"	"2007"	"2007"	"Oregon"	"41"	"American Indian or Alaska Native"	"1002-5"			309	73230	422.0
+	"2007"	"2007"	"Oregon"	"41"	"Asian or Pacific Islander"	"A-PI"	"Female"	"F"	221	86726	254.8
+	"2007"	"2007"	"Oregon"	"41"	"Asian or Pacific Islander"	"A-PI"	"Male"	"M"	237	76605	309.4
+"Total"	"2007"	"2007"	"Oregon"	"41"	"Asian or Pacific Islander"	"A-PI"			458	163331	280.4
+	"2007"	"2007"	"Oregon"	"41"	"Black or African American"	"2054-5"	"Female"	"F"	159	40313	394.4
+	"2007"	"2007"	"Oregon"	"41"	"Black or African American"	"2054-5"	"Male"	"M"	232	45890	505.6
+"Total"	"2007"	"2007"	"Oregon"	"41"	"Black or African American"	"2054-5"			391	86203	453.6
+	"2007"	"2007"	"Oregon"	"41"	"White"	"2106-3"	"Female"	"F"	15204	1715921	886.1
+	"2007"	"2007"	"Oregon"	"41"	"White"	"2106-3"	"Male"	"M"	15041	1683732	893.3
+"Total"	"2007"	"2007"	"Oregon"	"41"	"White"	"2106-3"			30245	3399653	889.6
+"Total"	"2007"	"2007"	"Oregon"	"41"					31403	3722417	843.6
+	"2007"	"2007"	"Washington"	"53"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	332	68058	487.8
+	"2007"	"2007"	"Washington"	"53"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	349	68039	512.9
+"Total"	"2007"	"2007"	"Washington"	"53"	"American Indian or Alaska Native"	"1002-5"			681	136097	500.4
+	"2007"	"2007"	"Washington"	"53"	"Asian or Pacific Islander"	"A-PI"	"Female"	"F"	795	281018	282.9
+	"2007"	"2007"	"Washington"	"53"	"Asian or Pacific Islander"	"A-PI"	"Male"	"M"	746	246824	302.2
+"Total"	"2007"	"2007"	"Washington"	"53"	"Asian or Pacific Islander"	"A-PI"			1541	527842	291.9
+	"2007"	"2007"	"Washington"	"53"	"Black or African American"	"2054-5"	"Female"	"F"	566	133263	424.7
+	"2007"	"2007"	"Washington"	"53"	"Black or African American"	"2054-5"	"Male"	"M"	717	150119	477.6
+"Total"	"2007"	"2007"	"Washington"	"53"	"Black or African American"	"2054-5"			1283	283382	452.7
+	"2007"	"2007"	"Washington"	"53"	"White"	"2106-3"	"Female"	"F"	22164	2765461	801.5
+	"2007"	"2007"	"Washington"	"53"	"White"	"2106-3"	"Male"	"M"	21654	2748805	787.8
+"Total"	"2007"	"2007"	"Washington"	"53"	"White"	"2106-3"			43818	5514266	794.6
+"Total"	"2007"	"2007"	"Washington"	"53"					47323	6461587	732.4
+"Total"	"2007"	"2007"							312446	46434315	672.9
+	"2008"	"2008"	"California"	"06"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	638	331895	192.2
+	"2008"	"2008"	"California"	"06"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	773	337772	228.9
+"Total"	"2008"	"2008"	"California"	"06"	"American Indian or Alaska Native"	"1002-5"			1411	669667	210.7
+	"2008"	"2008"	"California"	"06"	"Asian or Pacific Islander"	"A-PI"	"Female"	"F"	9532	2761968	345.1
+	"2008"	"2008"	"California"	"06"	"Asian or Pacific Islander"	"A-PI"	"Male"	"M"	10069	2520002	399.6
+"Total"	"2008"	"2008"	"California"	"06"	"Asian or Pacific Islander"	"A-PI"			19601	5281970	371.1
+	"2008"	"2008"	"California"	"06"	"Black or African American"	"2054-5"	"Female"	"F"	8910	1348565	660.7
+	"2008"	"2008"	"California"	"06"	"Black or African American"	"2054-5"	"Male"	"M"	9395	1313789	715.1
+"Total"	"2008"	"2008"	"California"	"06"	"Black or African American"	"2054-5"			18305	2662354	687.5
+	"2008"	"2008"	"California"	"06"	"White"	"2106-3"	"Female"	"F"	97197	13954544	696.5
+	"2008"	"2008"	"California"	"06"	"White"	"2106-3"	"Male"	"M"	98252	14035802	700.0
+"Total"	"2008"	"2008"	"California"	"06"	"White"	"2106-3"			195449	27990346	698.3
+"Total"	"2008"	"2008"	"California"	"06"					234766	36604337	641.4
+	"2008"	"2008"	"Oregon"	"41"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	140	37860	369.8
+	"2008"	"2008"	"Oregon"	"41"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	170	38539	441.1
+"Total"	"2008"	"2008"	"Oregon"	"41"	"American Indian or Alaska Native"	"1002-5"			310	76399	405.8
+	"2008"	"2008"	"Oregon"	"41"	"Asian or Pacific Islander"	"A-PI"	"Female"	"F"	248	89679	276.5
+	"2008"	"2008"	"Oregon"	"41"	"Asian or Pacific Islander"	"A-PI"	"Male"	"M"	222	78887	281.4
+"Total"	"2008"	"2008"	"Oregon"	"41"	"Asian or Pacific Islander"	"A-PI"			470	168566	278.8
+	"2008"	"2008"	"Oregon"	"41"	"Black or African American"	"2054-5"	"Female"	"F"	182	41680	436.7
+	"2008"	"2008"	"Oregon"	"41"	"Black or African American"	"2054-5"	"Male"	"M"	230	47706	482.1
+"Total"	"2008"	"2008"	"Oregon"	"41"	"Black or African American"	"2054-5"			412	89386	460.9
+	"2008"	"2008"	"Oregon"	"41"	"White"	"2106-3"	"Female"	"F"	15381	1734316	886.9
+	"2008"	"2008"	"Oregon"	"41"	"White"	"2106-3"	"Male"	"M"	15394	1700081	905.5
+"Total"	"2008"	"2008"	"Oregon"	"41"	"White"	"2106-3"			30775	3434397	896.1
+"Total"	"2008"	"2008"	"Oregon"	"41"					31967	3768748	848.2
+	"2008"	"2008"	"Washington"	"53"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	362	70184	515.8
+	"2008"	"2008"	"Washington"	"53"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	393	70728	555.6
+"Total"	"2008"	"2008"	"Washington"	"53"	"American Indian or Alaska Native"	"1002-5"			755	140912	535.8
+	"2008"	"2008"	"Washington"	"53"	"Asian or Pacific Islander"	"A-PI"	"Female"	"F"	874	292223	299.1
+	"2008"	"2008"	"Washington"	"53"	"Asian or Pacific Islander"	"A-PI"	"Male"	"M"	868	257230	337.4
+"Total"	"2008"	"2008"	"Washington"	"53"	"Asian or Pacific Islander"	"A-PI"			1742	549453	317.0
+	"2008"	"2008"	"Washington"	"53"	"Black or African American"	"2054-5"	"Female"	"F"	574	137864	416.4
+	"2008"	"2008"	"Washington"	"53"	"Black or African American"	"2054-5"	"Male"	"M"	747	156684	476.8
+"Total"	"2008"	"2008"	"Washington"	"53"	"Black or African American"	"2054-5"			1321	294548	448.5
+	"2008"	"2008"	"Washington"	"53"	"White"	"2106-3"	"Female"	"F"	22599	2792891	809.2
+	"2008"	"2008"	"Washington"	"53"	"White"	"2106-3"	"Male"	"M"	22210	2784427	797.7
+"Total"	"2008"	"2008"	"Washington"	"53"	"White"	"2106-3"			44809	5577318	803.4
+"Total"	"2008"	"2008"	"Washington"	"53"					48627	6562231	741.0
+"Total"	"2008"	"2008"							315360	46935316	671.9
+	"2009"	"2009"	"California"	"06"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	632	350822	180.1
+	"2009"	"2009"	"California"	"06"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	753	358457	210.1
+"Total"	"2009"	"2009"	"California"	"06"	"American Indian or Alaska Native"	"1002-5"			1385	709279	195.3
+	"2009"	"2009"	"California"	"06"	"Asian or Pacific Islander"	"A-PI"	"Female"	"F"	9574	2833505	337.9
+	"2009"	"2009"	"California"	"06"	"Asian or Pacific Islander"	"A-PI"	"Male"	"M"	10246	2579211	397.3
+"Total"	"2009"	"2009"	"California"	"06"	"Asian or Pacific Islander"	"A-PI"			19820	5412716	366.2
+	"2009"	"2009"	"California"	"06"	"Black or African American"	"2054-5"	"Female"	"F"	8740	1363153	641.2
+	"2009"	"2009"	"California"	"06"	"Black or African American"	"2054-5"	"Male"	"M"	9393	1328571	707.0
+"Total"	"2009"	"2009"	"California"	"06"	"Black or African American"	"2054-5"			18133	2691724	673.7
+	"2009"	"2009"	"California"	"06"	"White"	"2106-3"	"Female"	"F"	95386	14035595	679.6
+	"2009"	"2009"	"California"	"06"	"White"	"2106-3"	"Male"	"M"	98012	14111915	694.5
+"Total"	"2009"	"2009"	"California"	"06"	"White"	"2106-3"			193398	28147510	687.1
+"Total"	"2009"	"2009"	"California"	"06"					232736	36961229	629.7
+	"2009"	"2009"	"Oregon"	"41"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	150	39234	382.3
+	"2009"	"2009"	"Oregon"	"41"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	165	40299	409.4
+"Total"	"2009"	"2009"	"Oregon"	"41"	"American Indian or Alaska Native"	"1002-5"			315	79533	396.1
+	"2009"	"2009"	"Oregon"	"41"	"Asian or Pacific Islander"	"A-PI"	"Female"	"F"	232	92829	249.9
+	"2009"	"2009"	"Oregon"	"41"	"Asian or Pacific Islander"	"A-PI"	"Male"	"M"	245	81626	300.1
+"Total"	"2009"	"2009"	"Oregon"	"41"	"Asian or Pacific Islander"	"A-PI"			477	174455	273.4
+	"2009"	"2009"	"Oregon"	"41"	"Black or African American"	"2054-5"	"Female"	"F"	176	43189	407.5
+	"2009"	"2009"	"Oregon"	"41"	"Black or African American"	"2054-5"	"Male"	"M"	231	49086	470.6
+"Total"	"2009"	"2009"	"Oregon"	"41"	"Black or African American"	"2054-5"			407	92275	441.1
+	"2009"	"2009"	"Oregon"	"41"	"White"	"2106-3"	"Female"	"F"	15225	1747957	871.0
+	"2009"	"2009"	"Oregon"	"41"	"White"	"2106-3"	"Male"	"M"	15212	1714380	887.3
+"Total"	"2009"	"2009"	"Oregon"	"41"	"White"	"2106-3"			30437	3462337	879.1
+"Total"	"2009"	"2009"	"Oregon"	"41"					31636	3808600	830.6
+	"2009"	"2009"	"Washington"	"53"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	342	72086	474.4
+	"2009"	"2009"	"Washington"	"53"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	397	72649	546.5
+"Total"	"2009"	"2009"	"Washington"	"53"	"American Indian or Alaska Native"	"1002-5"			739	144735	510.6
+	"2009"	"2009"	"Washington"	"53"	"Asian or Pacific Islander"	"A-PI"	"Female"	"F"	894	303872	294.2
+	"2009"	"2009"	"Washington"	"53"	"Asian or Pacific Islander"	"A-PI"	"Male"	"M"	849	267997	316.8
+"Total"	"2009"	"2009"	"Washington"	"53"	"Asian or Pacific Islander"	"A-PI"			1743	571869	304.8
+	"2009"	"2009"	"Washington"	"53"	"Black or African American"	"2054-5"	"Female"	"F"	558	142882	390.5
+	"2009"	"2009"	"Washington"	"53"	"Black or African American"	"2054-5"	"Male"	"M"	731	163059	448.3
+"Total"	"2009"	"2009"	"Washington"	"53"	"Black or African American"	"2054-5"			1289	305941	421.3
+	"2009"	"2009"	"Washington"	"53"	"White"	"2106-3"	"Female"	"F"	22315	2825080	789.9
+	"2009"	"2009"	"Washington"	"53"	"White"	"2106-3"	"Male"	"M"	22184	2819801	786.7
+"Total"	"2009"	"2009"	"Washington"	"53"	"White"	"2106-3"			44499	5644881	788.3
+"Total"	"2009"	"2009"	"Washington"	"53"					48270	6667426	724.0
+"Total"	"2009"	"2009"							312642	47437255	659.1
+	"2010"	"2010"	"California"	"06"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	669	365302	183.1
+	"2010"	"2010"	"California"	"06"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	803	374040	214.7
+"Total"	"2010"	"2010"	"California"	"06"	"American Indian or Alaska Native"	"1002-5"			1472	739342	199.1
+	"2010"	"2010"	"California"	"06"	"Asian or Pacific Islander"	"A-PI"	"Female"	"F"	10127	2888780	350.6
+	"2010"	"2010"	"California"	"06"	"Asian or Pacific Islander"	"A-PI"	"Male"	"M"	10527	2626340	400.8
+"Total"	"2010"	"2010"	"California"	"06"	"Asian or Pacific Islander"	"A-PI"			20654	5515120	374.5
+	"2010"	"2010"	"California"	"06"	"Black or African American"	"2054-5"	"Female"	"F"	8690	1376482	631.3
+	"2010"	"2010"	"California"	"06"	"Black or African American"	"2054-5"	"Male"	"M"	9110	1342297	678.7
+"Total"	"2010"	"2010"	"California"	"06"	"Black or African American"	"2054-5"			17800	2718779	654.7
+	"2010"	"2010"	"California"	"06"	"White"	"2106-3"	"Female"	"F"	96152	14105562	681.7
+	"2010"	"2010"	"California"	"06"	"White"	"2106-3"	"Male"	"M"	97934	14175153	690.9
+"Total"	"2010"	"2010"	"California"	"06"	"White"	"2106-3"			194086	28280715	686.3
+"Total"	"2010"	"2010"	"California"	"06"					234012	37253956	628.2
+	"2010"	"2010"	"Oregon"	"41"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	141	40203	350.7
+	"2010"	"2010"	"Oregon"	"41"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	171	41583	411.2
+"Total"	"2010"	"2010"	"Oregon"	"41"	"American Indian or Alaska Native"	"1002-5"			312	81786	381.5
+	"2010"	"2010"	"Oregon"	"41"	"Asian or Pacific Islander"	"A-PI"	"Female"	"F"	258	94959	271.7
+	"2010"	"2010"	"Oregon"	"41"	"Asian or Pacific Islander"	"A-PI"	"Male"	"M"	249	83317	298.9
+"Total"	"2010"	"2010"	"Oregon"	"41"	"Asian or Pacific Islander"	"A-PI"			507	178276	284.4
+	"2010"	"2010"	"Oregon"	"41"	"Black or African American"	"2054-5"	"Female"	"F"	183	43903	416.8
+	"2010"	"2010"	"Oregon"	"41"	"Black or African American"	"2054-5"	"Male"	"M"	228	50373	452.6
+"Total"	"2010"	"2010"	"Oregon"	"41"	"Black or African American"	"2054-5"			411	94276	436.0
+	"2010"	"2010"	"Oregon"	"41"	"White"	"2106-3"	"Female"	"F"	15420	1756007	878.1
+	"2010"	"2010"	"Oregon"	"41"	"White"	"2106-3"	"Male"	"M"	15240	1720729	885.7
+"Total"	"2010"	"2010"	"Oregon"	"41"	"White"	"2106-3"			30660	3476736	881.9
+"Total"	"2010"	"2010"	"Oregon"	"41"					31890	3831074	832.4
+	"2010"	"2010"	"Washington"	"53"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	354	73569	481.2
+	"2010"	"2010"	"Washington"	"53"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	465	74253	626.2
+"Total"	"2010"	"2010"	"Washington"	"53"	"American Indian or Alaska Native"	"1002-5"			819	147822	554.0
+	"2010"	"2010"	"Washington"	"53"	"Asian or Pacific Islander"	"A-PI"	"Female"	"F"	917	311576	294.3
+	"2010"	"2010"	"Washington"	"53"	"Asian or Pacific Islander"	"A-PI"	"Male"	"M"	864	274269	315.0
+"Total"	"2010"	"2010"	"Washington"	"53"	"Asian or Pacific Islander"	"A-PI"			1781	585845	304.0
+	"2010"	"2010"	"Washington"	"53"	"Black or African American"	"2054-5"	"Female"	"F"	596	145489	409.7
+	"2010"	"2010"	"Washington"	"53"	"Black or African American"	"2054-5"	"Male"	"M"	717	165380	433.5
+"Total"	"2010"	"2010"	"Washington"	"53"	"Black or African American"	"2054-5"			1313	310869	422.4
+	"2010"	"2010"	"Washington"	"53"	"White"	"2106-3"	"Female"	"F"	22019	2844199	774.2
+	"2010"	"2010"	"Washington"	"53"	"White"	"2106-3"	"Male"	"M"	22214	2835805	783.3
+"Total"	"2010"	"2010"	"Washington"	"53"	"White"	"2106-3"			44233	5680004	778.7
+"Total"	"2010"	"2010"	"Washington"	"53"					48146	6724540	716.0
+"Total"	"2010"	"2010"							314048	47809570	656.9
+	"2011"	"2011"	"California"	"06"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	695	373598	186.0
+	"2011"	"2011"	"California"	"06"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	885	382843	231.2
+"Total"	"2011"	"2011"	"California"	"06"	"American Indian or Alaska Native"	"1002-5"			1580	756441	208.9
+	"2011"	"2011"	"California"	"06"	"Asian or Pacific Islander"	"A-PI"	"Female"	"F"	10511	2951212	356.2
+	"2011"	"2011"	"California"	"06"	"Asian or Pacific Islander"	"A-PI"	"Male"	"M"	10826	2683668	403.4
+"Total"	"2011"	"2011"	"California"	"06"	"Asian or Pacific Islander"	"A-PI"			21337	5634880	378.7
+	"2011"	"2011"	"California"	"06"	"Black or African American"	"2054-5"	"Female"	"F"	9008	1390229	648.0
+	"2011"	"2011"	"California"	"06"	"Black or African American"	"2054-5"	"Male"	"M"	9508	1359280	699.5
+"Total"	"2011"	"2011"	"California"	"06"	"Black or African American"	"2054-5"			18516	2749509	673.4
+	"2011"	"2011"	"California"	"06"	"White"	"2106-3"	"Female"	"F"	98164	14228546	689.9
+	"2011"	"2011"	"California"	"06"	"White"	"2106-3"	"Male"	"M"	100345	14322536	700.6
+"Total"	"2011"	"2011"	"California"	"06"	"White"	"2106-3"			198509	28551082	695.3
+"Total"	"2011"	"2011"	"California"	"06"					239942	37691912	636.6
+	"2011"	"2011"	"Oregon"	"41"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	148	40932	361.6
+	"2011"	"2011"	"Oregon"	"41"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	172	42788	402.0
+"Total"	"2011"	"2011"	"Oregon"	"41"	"American Indian or Alaska Native"	"1002-5"			320	83720	382.2
+	"2011"	"2011"	"Oregon"	"41"	"Asian or Pacific Islander"	"A-PI"	"Female"	"F"	241	98521	244.6
+	"2011"	"2011"	"Oregon"	"41"	"Asian or Pacific Islander"	"A-PI"	"Male"	"M"	250	86541	288.9
+"Total"	"2011"	"2011"	"Oregon"	"41"	"Asian or Pacific Islander"	"A-PI"			491	185062	265.3
+	"2011"	"2011"	"Oregon"	"41"	"Black or African American"	"2054-5"	"Female"	"F"	172	45739	376.0
+	"2011"	"2011"	"Oregon"	"41"	"Black or African American"	"2054-5"	"Male"	"M"	266	52173	509.8
+"Total"	"2011"	"2011"	"Oregon"	"41"	"Black or African American"	"2054-5"			438	97912	447.3
+	"2011"	"2011"	"Oregon"	"41"	"White"	"2106-3"	"Female"	"F"	15749	1770047	889.8
+	"2011"	"2011"	"Oregon"	"41"	"White"	"2106-3"	"Male"	"M"	15790	1735118	910.0
+"Total"	"2011"	"2011"	"Oregon"	"41"	"White"	"2106-3"			31539	3505165	899.8
+"Total"	"2011"	"2011"	"Oregon"	"41"					32788	3871859	846.8
+	"2011"	"2011"	"Washington"	"53"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	342	74765	457.4
+	"2011"	"2011"	"Washington"	"53"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	424	75569	561.1
+"Total"	"2011"	"2011"	"Washington"	"53"	"American Indian or Alaska Native"	"1002-5"			766	150334	509.5
+	"2011"	"2011"	"Washington"	"53"	"Asian or Pacific Islander"	"A-PI"	"Female"	"F"	997	322192	309.4
+	"2011"	"2011"	"Washington"	"53"	"Asian or Pacific Islander"	"A-PI"	"Male"	"M"	928	284364	326.3
+"Total"	"2011"	"2011"	"Washington"	"53"	"Asian or Pacific Islander"	"A-PI"			1925	606556	317.4
+	"2011"	"2011"	"Washington"	"53"	"Black or African American"	"2054-5"	"Female"	"F"	566	150815	375.3
+	"2011"	"2011"	"Washington"	"53"	"Black or African American"	"2054-5"	"Male"	"M"	769	173727	442.6
+"Total"	"2011"	"2011"	"Washington"	"53"	"Black or African American"	"2054-5"			1335	324542	411.3
+	"2011"	"2011"	"Washington"	"53"	"White"	"2106-3"	"Female"	"F"	22745	2872584	791.8
+	"2011"	"2011"	"Washington"	"53"	"White"	"2106-3"	"Male"	"M"	22920	2876022	796.9
+"Total"	"2011"	"2011"	"Washington"	"53"	"White"	"2106-3"			45665	5748606	794.4
+"Total"	"2011"	"2011"	"Washington"	"53"					49691	6830038	727.5
+"Total"	"2011"	"2011"							322421	48393809	666.2
+	"2012"	"2012"	"California"	"06"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	693	375651	184.5
+	"2012"	"2012"	"California"	"06"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	900	384841	233.9
+"Total"	"2012"	"2012"	"California"	"06"	"American Indian or Alaska Native"	"1002-5"			1593	760492	209.5
+	"2012"	"2012"	"California"	"06"	"Asian or Pacific Islander"	"A-PI"	"Female"	"F"	10972	3036923	361.3
+	"2012"	"2012"	"California"	"06"	"Asian or Pacific Islander"	"A-PI"	"Male"	"M"	11406	2760053	413.3
+"Total"	"2012"	"2012"	"California"	"06"	"Asian or Pacific Islander"	"A-PI"			22378	5796976	386.0
+	"2012"	"2012"	"California"	"06"	"Black or African American"	"2054-5"	"Female"	"F"	8934	1399358	638.4
+	"2012"	"2012"	"California"	"06"	"Black or African American"	"2054-5"	"Male"	"M"	9522	1368031	696.0
+"Total"	"2012"	"2012"	"California"	"06"	"Black or African American"	"2054-5"			18456	2767389	666.9
+	"2012"	"2012"	"California"	"06"	"White"	"2106-3"	"Female"	"F"	98552	14310934	688.6
+	"2012"	"2012"	"California"	"06"	"White"	"2106-3"	"Male"	"M"	101575	14405639	705.1
+"Total"	"2012"	"2012"	"California"	"06"	"White"	"2106-3"			200127	28716573	696.9
+"Total"	"2012"	"2012"	"California"	"06"					242554	38041430	637.6
+	"2012"	"2012"	"Oregon"	"41"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	145	41492	349.5
+	"2012"	"2012"	"Oregon"	"41"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	187	42868	436.2
+"Total"	"2012"	"2012"	"Oregon"	"41"	"American Indian or Alaska Native"	"1002-5"			332	84360	393.6
+	"2012"	"2012"	"Oregon"	"41"	"Asian or Pacific Islander"	"A-PI"	"Female"	"F"	297	102233	290.5
+	"2012"	"2012"	"Oregon"	"41"	"Asian or Pacific Islander"	"A-PI"	"Male"	"M"	298	90081	330.8
+"Total"	"2012"	"2012"	"Oregon"	"41"	"Asian or Pacific Islander"	"A-PI"			595	192314	309.4
+	"2012"	"2012"	"Oregon"	"41"	"Black or African American"	"2054-5"	"Female"	"F"	195	46539	419.0
+	"2012"	"2012"	"Oregon"	"41"	"Black or African American"	"2054-5"	"Male"	"M"	298	53292	559.2
+"Total"	"2012"	"2012"	"Oregon"	"41"	"Black or African American"	"2054-5"			493	99831	493.8
+	"2012"	"2012"	"Oregon"	"41"	"White"	"2106-3"	"Female"	"F"	15611	1778377	877.8
+	"2012"	"2012"	"Oregon"	"41"	"White"	"2106-3"	"Male"	"M"	15728	1744471	901.6
+"Total"	"2012"	"2012"	"Oregon"	"41"	"White"	"2106-3"			31339	3522848	889.6
+"Total"	"2012"	"2012"	"Oregon"	"41"					32759	3899353	840.1
+	"2012"	"2012"	"Washington"	"53"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	343	75780	452.6
+	"2012"	"2012"	"Washington"	"53"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	448	76548	585.3
+"Total"	"2012"	"2012"	"Washington"	"53"	"American Indian or Alaska Native"	"1002-5"			791	152328	519.3
+	"2012"	"2012"	"Washington"	"53"	"Asian or Pacific Islander"	"A-PI"	"Female"	"F"	958	335760	285.3
+	"2012"	"2012"	"Washington"	"53"	"Asian or Pacific Islander"	"A-PI"	"Male"	"M"	941	296587	317.3
+"Total"	"2012"	"2012"	"Washington"	"53"	"Asian or Pacific Islander"	"A-PI"			1899	632347	300.3
+	"2012"	"2012"	"Washington"	"53"	"Black or African American"	"2054-5"	"Female"	"F"	575	155214	370.5
+	"2012"	"2012"	"Washington"	"53"	"Black or African American"	"2054-5"	"Male"	"M"	806	177934	453.0
+"Total"	"2012"	"2012"	"Washington"	"53"	"Black or African American"	"2054-5"			1381	333148	414.5
+	"2012"	"2012"	"Washington"	"53"	"White"	"2106-3"	"Female"	"F"	22667	2888708	784.7
+	"2012"	"2012"	"Washington"	"53"	"White"	"2106-3"	"Male"	"M"	23367	2890481	808.4
+"Total"	"2012"	"2012"	"Washington"	"53"	"White"	"2106-3"			46034	5779189	796.5
+"Total"	"2012"	"2012"	"Washington"	"53"					50105	6897012	726.5
+"Total"	"2012"	"2012"							325418	48837795	666.3
+	"2013"	"2013"	"California"	"06"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	792	377240	209.9
+	"2013"	"2013"	"California"	"06"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	970	386212	251.2
+"Total"	"2013"	"2013"	"California"	"06"	"American Indian or Alaska Native"	"1002-5"			1762	763452	230.8
+	"2013"	"2013"	"California"	"06"	"Asian or Pacific Islander"	"A-PI"	"Female"	"F"	11418	3101408	368.2
+	"2013"	"2013"	"California"	"06"	"Asian or Pacific Islander"	"A-PI"	"Male"	"M"	12033	2816510	427.2
+"Total"	"2013"	"2013"	"California"	"06"	"Asian or Pacific Islander"	"A-PI"			23451	5917918	396.3
+	"2013"	"2013"	"California"	"06"	"Black or African American"	"2054-5"	"Female"	"F"	8984	1405371	639.3
+	"2013"	"2013"	"California"	"06"	"Black or African American"	"2054-5"	"Male"	"M"	9904	1373480	721.1
+"Total"	"2013"	"2013"	"California"	"06"	"Black or African American"	"2054-5"			18888	2778851	679.7
+	"2013"	"2013"	"California"	"06"	"White"	"2106-3"	"Female"	"F"	100025	14384306	695.4
+	"2013"	"2013"	"California"	"06"	"White"	"2106-3"	"Male"	"M"	104233	14487994	719.4
+"Total"	"2013"	"2013"	"California"	"06"	"White"	"2106-3"			204258	28872300	707.5
+"Total"	"2013"	"2013"	"California"	"06"					248359	38332521	647.9
+	"2013"	"2013"	"Oregon"	"41"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	151	42156	358.2
+	"2013"	"2013"	"Oregon"	"41"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	207	43207	479.1
+"Total"	"2013"	"2013"	"Oregon"	"41"	"American Indian or Alaska Native"	"1002-5"			358	85363	419.4
+	"2013"	"2013"	"Oregon"	"41"	"Asian or Pacific Islander"	"A-PI"	"Female"	"F"	283	106256	266.3
+	"2013"	"2013"	"Oregon"	"41"	"Asian or Pacific Islander"	"A-PI"	"Male"	"M"	308	92689	332.3
+"Total"	"2013"	"2013"	"Oregon"	"41"	"Asian or Pacific Islander"	"A-PI"			591	198945	297.1
+	"2013"	"2013"	"Oregon"	"41"	"Black or African American"	"2054-5"	"Female"	"F"	201	47463	423.5
+	"2013"	"2013"	"Oregon"	"41"	"Black or African American"	"2054-5"	"Male"	"M"	291	54257	536.3
+"Total"	"2013"	"2013"	"Oregon"	"41"	"Black or African American"	"2054-5"			492	101720	483.7
+	"2013"	"2013"	"Oregon"	"41"	"White"	"2106-3"	"Female"	"F"	16128	1789780	901.1
+	"2013"	"2013"	"Oregon"	"41"	"White"	"2106-3"	"Male"	"M"	16370	1754257	933.2
+"Total"	"2013"	"2013"	"Oregon"	"41"	"White"	"2106-3"			32498	3544037	917.0
+"Total"	"2013"	"2013"	"Oregon"	"41"					33939	3930065	863.6
+	"2013"	"2013"	"Washington"	"53"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	367	77445	473.9
+	"2013"	"2013"	"Washington"	"53"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	461	78217	589.4
+"Total"	"2013"	"2013"	"Washington"	"53"	"American Indian or Alaska Native"	"1002-5"			828	155662	531.9
+	"2013"	"2013"	"Washington"	"53"	"Asian or Pacific Islander"	"A-PI"	"Female"	"F"	1068	347209	307.6
+	"2013"	"2013"	"Washington"	"53"	"Asian or Pacific Islander"	"A-PI"	"Male"	"M"	1029	307790	334.3
+"Total"	"2013"	"2013"	"Washington"	"53"	"Asian or Pacific Islander"	"A-PI"			2097	654999	320.2
+	"2013"	"2013"	"Washington"	"53"	"Black or African American"	"2054-5"	"Female"	"F"	598	160325	373.0
+	"2013"	"2013"	"Washington"	"53"	"Black or African American"	"2054-5"	"Male"	"M"	851	183917	462.7
+"Total"	"2013"	"2013"	"Washington"	"53"	"Black or African American"	"2054-5"			1449	344242	420.9
+	"2013"	"2013"	"Washington"	"53"	"White"	"2106-3"	"Female"	"F"	23258	2903757	801.0
+	"2013"	"2013"	"Washington"	"53"	"White"	"2106-3"	"Male"	"M"	23632	2912746	811.3
+"Total"	"2013"	"2013"	"Washington"	"53"	"White"	"2106-3"			46890	5816503	806.2
+"Total"	"2013"	"2013"	"Washington"	"53"					51264	6971406	735.3
+"Total"	"2013"	"2013"							333562	49233992	677.5
+	"2014"	"2014"	"California"	"06"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	798	380444	209.8
+	"2014"	"2014"	"California"	"06"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	960	388066	247.4
+"Total"	"2014"	"2014"	"California"	"06"	"American Indian or Alaska Native"	"1002-5"			1758	768510	228.8
+	"2014"	"2014"	"California"	"06"	"Asian or Pacific Islander"	"A-PI"	"Female"	"F"	11692	3204482	364.9
+	"2014"	"2014"	"California"	"06"	"Asian or Pacific Islander"	"A-PI"	"Male"	"M"	12047	2908740	414.2
+"Total"	"2014"	"2014"	"California"	"06"	"Asian or Pacific Islander"	"A-PI"			23739	6113222	388.3
+	"2014"	"2014"	"California"	"06"	"Black or African American"	"2054-5"	"Female"	"F"	9076	1418637	639.8
+	"2014"	"2014"	"California"	"06"	"Black or African American"	"2054-5"	"Male"	"M"	10033	1389925	721.8
+"Total"	"2014"	"2014"	"California"	"06"	"Black or African American"	"2054-5"			19109	2808562	680.4
+	"2014"	"2014"	"California"	"06"	"White"	"2106-3"	"Female"	"F"	97936	14530033	674.0
+	"2014"	"2014"	"California"	"06"	"White"	"2106-3"	"Male"	"M"	103387	14582173	709.0
+"Total"	"2014"	"2014"	"California"	"06"	"White"	"2106-3"			201323	29112206	691.5
+"Total"	"2014"	"2014"	"California"	"06"					245929	38802500	633.8
+	"2014"	"2014"	"Oregon"	"41"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	182	42897	424.3
+	"2014"	"2014"	"Oregon"	"41"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	189	43747	432.0
+"Total"	"2014"	"2014"	"Oregon"	"41"	"American Indian or Alaska Native"	"1002-5"			371	86644	428.2
+	"2014"	"2014"	"Oregon"	"41"	"Asian or Pacific Islander"	"A-PI"	"Female"	"F"	302	110761	272.7
+	"2014"	"2014"	"Oregon"	"41"	"Asian or Pacific Islander"	"A-PI"	"Male"	"M"	303	97502	310.8
+"Total"	"2014"	"2014"	"Oregon"	"41"	"Asian or Pacific Islander"	"A-PI"			605	208263	290.5
+	"2014"	"2014"	"Oregon"	"41"	"Black or African American"	"2054-5"	"Female"	"F"	211	48883	431.6
+	"2014"	"2014"	"Oregon"	"41"	"Black or African American"	"2054-5"	"Male"	"M"	249	55925	445.2
+"Total"	"2014"	"2014"	"Oregon"	"41"	"Black or African American"	"2054-5"			460	104808	438.9
+	"2014"	"2014"	"Oregon"	"41"	"White"	"2106-3"	"Female"	"F"	16020	1803598	888.2
+	"2014"	"2014"	"Oregon"	"41"	"White"	"2106-3"	"Male"	"M"	16695	1766926	944.9
+"Total"	"2014"	"2014"	"Oregon"	"41"	"White"	"2106-3"			32715	3570524	916.3
+"Total"	"2014"	"2014"	"Oregon"	"41"					34151	3970239	860.2
+	"2014"	"2014"	"Washington"	"53"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	386	79278	486.9
+	"2014"	"2014"	"Washington"	"53"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	450	80206	561.1
+"Total"	"2014"	"2014"	"Washington"	"53"	"American Indian or Alaska Native"	"1002-5"			836	159484	524.2
+	"2014"	"2014"	"Washington"	"53"	"Asian or Pacific Islander"	"A-PI"	"Female"	"F"	1103	362009	304.7
+	"2014"	"2014"	"Washington"	"53"	"Asian or Pacific Islander"	"A-PI"	"Male"	"M"	1065	322880	329.8
+"Total"	"2014"	"2014"	"Washington"	"53"	"Asian or Pacific Islander"	"A-PI"			2168	684889	316.5
+	"2014"	"2014"	"Washington"	"53"	"Black or African American"	"2054-5"	"Female"	"F"	627	165248	379.4
+	"2014"	"2014"	"Washington"	"53"	"Black or African American"	"2054-5"	"Male"	"M"	890	190325	467.6
+"Total"	"2014"	"2014"	"Washington"	"53"	"Black or African American"	"2054-5"			1517	355573	426.6
+	"2014"	"2014"	"Washington"	"53"	"White"	"2106-3"	"Female"	"F"	23316	2925060	797.1
+	"2014"	"2014"	"Washington"	"53"	"White"	"2106-3"	"Male"	"M"	24262	2936524	826.2
+"Total"	"2014"	"2014"	"Washington"	"53"	"White"	"2106-3"			47578	5861584	811.7
+"Total"	"2014"	"2014"	"Washington"	"53"					52099	7061530	737.8
+"Total"	"2014"	"2014"							332179	49834269	666.6
+	"2015"	"2015"	"California"	"06"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	888	382459	232.2
+	"2015"	"2015"	"California"	"06"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	1075	390250	275.5
+"Total"	"2015"	"2015"	"California"	"06"	"American Indian or Alaska Native"	"1002-5"			1963	772709	254.0
+	"2015"	"2015"	"California"	"06"	"Asian or Pacific Islander"	"A-PI"	"Female"	"F"	12899	3289643	392.1
+	"2015"	"2015"	"California"	"06"	"Asian or Pacific Islander"	"A-PI"	"Male"	"M"	13105	2986427	438.8
+"Total"	"2015"	"2015"	"California"	"06"	"Asian or Pacific Islander"	"A-PI"			26004	6276070	414.3
+	"2015"	"2015"	"California"	"06"	"Black or African American"	"2054-5"	"Female"	"F"	9593	1425867	672.8
+	"2015"	"2015"	"California"	"06"	"Black or African American"	"2054-5"	"Male"	"M"	10538	1401954	751.7
+"Total"	"2015"	"2015"	"California"	"06"	"Black or African American"	"2054-5"			20131	2827821	711.9
+	"2015"	"2015"	"California"	"06"	"White"	"2106-3"	"Female"	"F"	102744	14603781	703.5
+	"2015"	"2015"	"California"	"06"	"White"	"2106-3"	"Male"	"M"	108364	14664437	739.0
+"Total"	"2015"	"2015"	"California"	"06"	"White"	"2106-3"			211108	29268218	721.3
+"Total"	"2015"	"2015"	"California"	"06"					259206	39144818	662.2
+	"2015"	"2015"	"Oregon"	"41"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	189	43770	431.8
+	"2015"	"2015"	"Oregon"	"41"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	215	44653	481.5
+"Total"	"2015"	"2015"	"Oregon"	"41"	"American Indian or Alaska Native"	"1002-5"			404	88423	456.9
+	"2015"	"2015"	"Oregon"	"41"	"Asian or Pacific Islander"	"A-PI"	"Female"	"F"	341	115977	294.0
+	"2015"	"2015"	"Oregon"	"41"	"Asian or Pacific Islander"	"A-PI"	"Male"	"M"	328	102036	321.5
+"Total"	"2015"	"2015"	"Oregon"	"41"	"Asian or Pacific Islander"	"A-PI"			669	218013	306.9
+	"2015"	"2015"	"Oregon"	"41"	"Black or African American"	"2054-5"	"Female"	"F"	214	50666	422.4
+	"2015"	"2015"	"Oregon"	"41"	"Black or African American"	"2054-5"	"Male"	"M"	306	57841	529.0
+"Total"	"2015"	"2015"	"Oregon"	"41"	"Black or African American"	"2054-5"			520	108507	479.2
+	"2015"	"2015"	"Oregon"	"41"	"White"	"2106-3"	"Female"	"F"	16954	1825394	928.8
+	"2015"	"2015"	"Oregon"	"41"	"White"	"2106-3"	"Male"	"M"	17158	1788640	959.3
+"Total"	"2015"	"2015"	"Oregon"	"41"	"White"	"2106-3"			34112	3614034	943.9
+"Total"	"2015"	"2015"	"Oregon"	"41"					35705	4028977	886.2
+	"2015"	"2015"	"Washington"	"53"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	383	81040	472.6
+	"2015"	"2015"	"Washington"	"53"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	476	81981	580.6
+"Total"	"2015"	"2015"	"Washington"	"53"	"American Indian or Alaska Native"	"1002-5"			859	163021	526.9
+	"2015"	"2015"	"Washington"	"53"	"Asian or Pacific Islander"	"A-PI"	"Female"	"F"	1219	379545	321.2
+	"2015"	"2015"	"Washington"	"53"	"Asian or Pacific Islander"	"A-PI"	"Male"	"M"	1149	338023	339.9
+"Total"	"2015"	"2015"	"Washington"	"53"	"Asian or Pacific Islander"	"A-PI"			2368	717568	330.0
+	"2015"	"2015"	"Washington"	"53"	"Black or African American"	"2054-5"	"Female"	"F"	697	170595	408.6
+	"2015"	"2015"	"Washington"	"53"	"Black or African American"	"2054-5"	"Male"	"M"	957	195796	488.8
+"Total"	"2015"	"2015"	"Washington"	"53"	"Black or African American"	"2054-5"			1654	366391	451.4
+	"2015"	"2015"	"Washington"	"53"	"White"	"2106-3"	"Female"	"F"	24493	2954173	829.1
+	"2015"	"2015"	"Washington"	"53"	"White"	"2106-3"	"Male"	"M"	25221	2969198	849.4
+"Total"	"2015"	"2015"	"Washington"	"53"	"White"	"2106-3"			49714	5923371	839.3
+"Total"	"2015"	"2015"	"Washington"	"53"					54595	7170351	761.4
+"Total"	"2015"	"2015"							349506	50344146	694.2
+	"2016"	"2016"	"California"	"06"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	888	383030	231.8
+	"2016"	"2016"	"California"	"06"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	1102	390325	282.3
+"Total"	"2016"	"2016"	"California"	"06"	"American Indian or Alaska Native"	"1002-5"			1990	773355	257.3
+	"2016"	"2016"	"California"	"06"	"Asian or Pacific Islander"	"A-PI"	"Female"	"F"	13256	3332913	397.7
+	"2016"	"2016"	"California"	"06"	"Asian or Pacific Islander"	"A-PI"	"Male"	"M"	13543	3029885	447.0
+"Total"	"2016"	"2016"	"California"	"06"	"Asian or Pacific Islander"	"A-PI"			26799	6362798	421.2
+	"2016"	"2016"	"California"	"06"	"Black or African American"	"2054-5"	"Female"	"F"	9781	1426985	685.4
+	"2016"	"2016"	"California"	"06"	"Black or African American"	"2054-5"	"Male"	"M"	10850	1402279	773.7
+"Total"	"2016"	"2016"	"California"	"06"	"Black or African American"	"2054-5"			20631	2829264	729.2
+	"2016"	"2016"	"California"	"06"	"White"	"2106-3"	"Female"	"F"	103055	14613728	705.2
+	"2016"	"2016"	"California"	"06"	"White"	"2106-3"	"Male"	"M"	109765	14670872	748.2
+"Total"	"2016"	"2016"	"California"	"06"	"White"	"2106-3"			212820	29284600	726.7
+"Total"	"2016"	"2016"	"California"	"06"					262240	39250017	668.1
+	"2016"	"2016"	"Oregon"	"41"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	179	44314	403.9
+	"2016"	"2016"	"Oregon"	"41"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	219	45562	480.7
+"Total"	"2016"	"2016"	"Oregon"	"41"	"American Indian or Alaska Native"	"1002-5"			398	89876	442.8
+	"2016"	"2016"	"Oregon"	"41"	"Asian or Pacific Islander"	"A-PI"	"Female"	"F"	371	119322	310.9
+	"2016"	"2016"	"Oregon"	"41"	"Asian or Pacific Islander"	"A-PI"	"Male"	"M"	369	105851	348.6
+"Total"	"2016"	"2016"	"Oregon"	"41"	"Asian or Pacific Islander"	"A-PI"			740	225173	328.6
+	"2016"	"2016"	"Oregon"	"41"	"Black or African American"	"2054-5"	"Female"	"F"	230	52508	438.0
+	"2016"	"2016"	"Oregon"	"41"	"Black or African American"	"2054-5"	"Male"	"M"	292	60159	485.4
+"Total"	"2016"	"2016"	"Oregon"	"41"	"Black or African American"	"2054-5"			522	112667	463.3
+	"2016"	"2016"	"Oregon"	"41"	"White"	"2106-3"	"Female"	"F"	16633	1850311	898.9
+	"2016"	"2016"	"Oregon"	"41"	"White"	"2106-3"	"Male"	"M"	17485	1815438	963.1
+"Total"	"2016"	"2016"	"Oregon"	"41"	"White"	"2106-3"			34118	3665749	930.7
+"Total"	"2016"	"2016"	"Oregon"	"41"					35778	4093465	874.0
+	"2016"	"2016"	"Washington"	"53"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	407	83003	490.3
+	"2016"	"2016"	"Washington"	"53"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	528	83148	635.0
+"Total"	"2016"	"2016"	"Washington"	"53"	"American Indian or Alaska Native"	"1002-5"			935	166151	562.7
+	"2016"	"2016"	"Washington"	"53"	"Asian or Pacific Islander"	"A-PI"	"Female"	"F"	1222	391415	312.2
+	"2016"	"2016"	"Washington"	"53"	"Asian or Pacific Islander"	"A-PI"	"Male"	"M"	1224	351719	348.0
+"Total"	"2016"	"2016"	"Washington"	"53"	"Asian or Pacific Islander"	"A-PI"			2446	743134	329.1
+	"2016"	"2016"	"Washington"	"53"	"Black or African American"	"2054-5"	"Female"	"F"	686	175798	390.2
+	"2016"	"2016"	"Washington"	"53"	"Black or African American"	"2054-5"	"Male"	"M"	988	200569	492.6
+"Total"	"2016"	"2016"	"Washington"	"53"	"Black or African American"	"2054-5"			1674	376367	444.8
+	"2016"	"2016"	"Washington"	"53"	"White"	"2106-3"	"Female"	"F"	24207	2996384	807.9
+	"2016"	"2016"	"Washington"	"53"	"White"	"2106-3"	"Male"	"M"	25507	3005964	848.5
+"Total"	"2016"	"2016"	"Washington"	"53"	"White"	"2106-3"			49714	6002348	828.2
+"Total"	"2016"	"2016"	"Washington"	"53"					54769	7288000	751.5
+"Total"	"2016"	"2016"							352787	50631482	696.8
+	"2017"	"2017"	"California"	"06"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	858	384689	223.0
+	"2017"	"2017"	"California"	"06"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	1197	391973	305.4
+"Total"	"2017"	"2017"	"California"	"06"	"American Indian or Alaska Native"	"1002-5"			2055	776662	264.6
+	"2017"	"2017"	"California"	"06"	"Asian or Pacific Islander"	"A-PI"	"Female"	"F"	14110	3430594	411.3
+	"2017"	"2017"	"California"	"06"	"Asian or Pacific Islander"	"A-PI"	"Male"	"M"	14366	3118068	460.7
+"Total"	"2017"	"2017"	"California"	"06"	"Asian or Pacific Islander"	"A-PI"			28476	6548662	434.8
+	"2017"	"2017"	"California"	"06"	"Black or African American"	"2054-5"	"Female"	"F"	9944	1431051	694.9
+	"2017"	"2017"	"California"	"06"	"Black or African American"	"2054-5"	"Male"	"M"	11070	1410736	784.7
+"Total"	"2017"	"2017"	"California"	"06"	"Black or African American"	"2054-5"			21014	2841787	739.5
+	"2017"	"2017"	"California"	"06"	"White"	"2106-3"	"Female"	"F"	104775	14642766	715.5
+	"2017"	"2017"	"California"	"06"	"White"	"2106-3"	"Male"	"M"	111869	14726776	759.6
+"Total"	"2017"	"2017"	"California"	"06"	"White"	"2106-3"			216644	29369542	737.6
+"Total"	"2017"	"2017"	"California"	"06"					268189	39536653	678.3
+	"2017"	"2017"	"Oregon"	"41"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	193	45176	427.2
+	"2017"	"2017"	"Oregon"	"41"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	250	46476	537.9
+"Total"	"2017"	"2017"	"Oregon"	"41"	"American Indian or Alaska Native"	"1002-5"			443	91652	483.4
+	"2017"	"2017"	"Oregon"	"41"	"Asian or Pacific Islander"	"A-PI"	"Female"	"F"	416	125282	332.1
+	"2017"	"2017"	"Oregon"	"41"	"Asian or Pacific Islander"	"A-PI"	"Male"	"M"	367	110740	331.4
+"Total"	"2017"	"2017"	"Oregon"	"41"	"Asian or Pacific Islander"	"A-PI"			783	236022	331.7
+	"2017"	"2017"	"Oregon"	"41"	"Black or African American"	"2054-5"	"Female"	"F"	222	54900	404.4
+	"2017"	"2017"	"Oregon"	"41"	"Black or African American"	"2054-5"	"Male"	"M"	330	62480	528.2
+"Total"	"2017"	"2017"	"Oregon"	"41"	"Black or African American"	"2054-5"			552	117380	470.3
+	"2017"	"2017"	"Oregon"	"41"	"White"	"2106-3"	"Female"	"F"	17116	1864429	918.0
+	"2017"	"2017"	"Oregon"	"41"	"White"	"2106-3"	"Male"	"M"	17730	1833293	967.1
+"Total"	"2017"	"2017"	"Oregon"	"41"	"White"	"2106-3"			34846	3697722	942.4
+"Total"	"2017"	"2017"	"Oregon"	"41"					36624	4142776	884.0
+	"2017"	"2017"	"Washington"	"53"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	430	84466	509.1
+	"2017"	"2017"	"Washington"	"53"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	540	85286	633.2
+"Total"	"2017"	"2017"	"Washington"	"53"	"American Indian or Alaska Native"	"1002-5"			970	169752	571.4
+	"2017"	"2017"	"Washington"	"53"	"Asian or Pacific Islander"	"A-PI"	"Female"	"F"	1381	411878	335.3
+	"2017"	"2017"	"Washington"	"53"	"Asian or Pacific Islander"	"A-PI"	"Male"	"M"	1333	371826	358.5
+"Total"	"2017"	"2017"	"Washington"	"53"	"Asian or Pacific Islander"	"A-PI"			2714	783704	346.3
+	"2017"	"2017"	"Washington"	"53"	"Black or African American"	"2054-5"	"Female"	"F"	728	181069	402.1
+	"2017"	"2017"	"Washington"	"53"	"Black or African American"	"2054-5"	"Male"	"M"	1059	206724	512.3
+"Total"	"2017"	"2017"	"Washington"	"53"	"Black or African American"	"2054-5"			1787	387793	460.8
+	"2017"	"2017"	"Washington"	"53"	"White"	"2106-3"	"Female"	"F"	25001	3024857	826.5
+	"2017"	"2017"	"Washington"	"53"	"White"	"2106-3"	"Male"	"M"	26523	3039637	872.6
+"Total"	"2017"	"2017"	"Washington"	"53"	"White"	"2106-3"			51524	6064494	849.6
+"Total"	"2017"	"2017"	"Washington"	"53"					56995	7405743	769.6
+"Total"	"2017"	"2017"							361808	51085172	708.2
+	"2018"	"2018"	"California"	"06"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	880	385545	228.2
+	"2018"	"2018"	"California"	"06"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	1185	392414	302.0
+"Total"	"2018"	"2018"	"California"	"06"	"American Indian or Alaska Native"	"1002-5"			2065	777959	265.4
+	"2018"	"2018"	"California"	"06"	"Asian or Pacific Islander"	"A-PI"	"Female"	"F"	14354	3468631	413.8
+	"2018"	"2018"	"California"	"06"	"Asian or Pacific Islander"	"A-PI"	"Male"	"M"	14965	3157535	473.9
+"Total"	"2018"	"2018"	"California"	"06"	"Asian or Pacific Islander"	"A-PI"			29319	6626166	442.5
+	"2018"	"2018"	"California"	"06"	"Black or African American"	"2054-5"	"Female"	"F"	10052	1433638	701.2
+	"2018"	"2018"	"California"	"06"	"Black or African American"	"2054-5"	"Male"	"M"	11426	1417457	806.1
+"Total"	"2018"	"2018"	"California"	"06"	"Black or African American"	"2054-5"			21478	2851095	753.3
+	"2018"	"2018"	"California"	"06"	"White"	"2106-3"	"Female"	"F"	103417	14605654	708.1
+	"2018"	"2018"	"California"	"06"	"White"	"2106-3"	"Male"	"M"	112539	14696171	765.8
+"Total"	"2018"	"2018"	"California"	"06"	"White"	"2106-3"			215956	29301825	737.0
+"Total"	"2018"	"2018"	"California"	"06"					268818	39557045	679.6
+	"2018"	"2018"	"Oregon"	"41"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	186	45963	404.7
+	"2018"	"2018"	"Oregon"	"41"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	222	47437	468.0
+"Total"	"2018"	"2018"	"Oregon"	"41"	"American Indian or Alaska Native"	"1002-5"			408	93400	436.8
+	"2018"	"2018"	"Oregon"	"41"	"Asian or Pacific Islander"	"A-PI"	"Female"	"F"	404	130852	308.7
+	"2018"	"2018"	"Oregon"	"41"	"Asian or Pacific Islander"	"A-PI"	"Male"	"M"	399	116304	343.1
+"Total"	"2018"	"2018"	"Oregon"	"41"	"Asian or Pacific Islander"	"A-PI"			803	247156	324.9
+	"2018"	"2018"	"Oregon"	"41"	"Black or African American"	"2054-5"	"Female"	"F"	265	56575	468.4
+	"2018"	"2018"	"Oregon"	"41"	"Black or African American"	"2054-5"	"Male"	"M"	346	64823	533.8
+"Total"	"2018"	"2018"	"Oregon"	"41"	"Black or African American"	"2054-5"			611	121398	503.3
+	"2018"	"2018"	"Oregon"	"41"	"White"	"2106-3"	"Female"	"F"	16661	1879829	886.3
+	"2018"	"2018"	"Oregon"	"41"	"White"	"2106-3"	"Male"	"M"	17704	1848930	957.5
+"Total"	"2018"	"2018"	"Oregon"	"41"	"White"	"2106-3"			34365	3728759	921.6
+"Total"	"2018"	"2018"	"Oregon"	"41"					36187	4190713	863.5
+	"2018"	"2018"	"Washington"	"53"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	437	86105	507.5
+	"2018"	"2018"	"Washington"	"53"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	563	87082	646.5
+"Total"	"2018"	"2018"	"Washington"	"53"	"American Indian or Alaska Native"	"1002-5"			1000	173187	577.4
+	"2018"	"2018"	"Washington"	"53"	"Asian or Pacific Islander"	"A-PI"	"Female"	"F"	1453	434717	334.2
+	"2018"	"2018"	"Washington"	"53"	"Asian or Pacific Islander"	"A-PI"	"Male"	"M"	1364	396058	344.4
+"Total"	"2018"	"2018"	"Washington"	"53"	"Asian or Pacific Islander"	"A-PI"			2817	830775	339.1
+	"2018"	"2018"	"Washington"	"53"	"Black or African American"	"2054-5"	"Female"	"F"	774	188454	410.7
+	"2018"	"2018"	"Washington"	"53"	"Black or African American"	"2054-5"	"Male"	"M"	1036	214948	482.0
+"Total"	"2018"	"2018"	"Washington"	"53"	"Black or African American"	"2054-5"			1810	403402	448.7
+	"2018"	"2018"	"Washington"	"53"	"White"	"2106-3"	"Female"	"F"	24819	3056404	812.0
+	"2018"	"2018"	"Washington"	"53"	"White"	"2106-3"	"Male"	"M"	26431	3071823	860.4
+"Total"	"2018"	"2018"	"Washington"	"53"	"White"	"2106-3"			51250	6128227	836.3
+"Total"	"2018"	"2018"	"Washington"	"53"					56877	7535591	754.8
+"Total"	"2018"	"2018"							361882	51283349	705.7
+	"2019"	"2019"	"California"	"06"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	927	385101	240.7
+	"2019"	"2019"	"California"	"06"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	1164	391583	297.3
+"Total"	"2019"	"2019"	"California"	"06"	"American Indian or Alaska Native"	"1002-5"			2091	776684	269.2
+	"2019"	"2019"	"California"	"06"	"Asian or Pacific Islander"	"A-PI"	"Female"	"F"	14463	3493211	414.0
+	"2019"	"2019"	"California"	"06"	"Asian or Pacific Islander"	"A-PI"	"Male"	"M"	15048	3185423	472.4
+"Total"	"2019"	"2019"	"California"	"06"	"Asian or Pacific Islander"	"A-PI"			29511	6678634	441.9
+	"2019"	"2019"	"California"	"06"	"Black or African American"	"2054-5"	"Female"	"F"	9959	1432396	695.3
+	"2019"	"2019"	"California"	"06"	"Black or African American"	"2054-5"	"Male"	"M"	11653	1420744	820.2
+"Total"	"2019"	"2019"	"California"	"06"	"Black or African American"	"2054-5"			21612	2853140	757.5
+	"2019"	"2019"	"California"	"06"	"White"	"2106-3"	"Female"	"F"	102786	14556661	706.1
+	"2019"	"2019"	"California"	"06"	"White"	"2106-3"	"Male"	"M"	113831	14647104	777.2
+"Total"	"2019"	"2019"	"California"	"06"	"White"	"2106-3"			216617	29203765	741.7
+"Total"	"2019"	"2019"	"California"	"06"					269831	39512223	682.9
+	"2019"	"2019"	"Oregon"	"41"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	185	46612	396.9
+	"2019"	"2019"	"Oregon"	"41"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	206	48005	429.1
+"Total"	"2019"	"2019"	"Oregon"	"41"	"American Indian or Alaska Native"	"1002-5"			391	94617	413.2
+	"2019"	"2019"	"Oregon"	"41"	"Asian or Pacific Islander"	"A-PI"	"Female"	"F"	462	132434	348.9
+	"2019"	"2019"	"Oregon"	"41"	"Asian or Pacific Islander"	"A-PI"	"Male"	"M"	445	117983	377.2
+"Total"	"2019"	"2019"	"Oregon"	"41"	"Asian or Pacific Islander"	"A-PI"			907	250417	362.2
+	"2019"	"2019"	"Oregon"	"41"	"Black or African American"	"2054-5"	"Female"	"F"	243	57237	424.6
+	"2019"	"2019"	"Oregon"	"41"	"Black or African American"	"2054-5"	"Male"	"M"	340	65782	516.9
+"Total"	"2019"	"2019"	"Oregon"	"41"	"Black or African American"	"2054-5"			583	123019	473.9
+	"2019"	"2019"	"Oregon"	"41"	"White"	"2106-3"	"Female"	"F"	17141	1890727	906.6
+	"2019"	"2019"	"Oregon"	"41"	"White"	"2106-3"	"Male"	"M"	18348	1858957	987.0
+"Total"	"2019"	"2019"	"Oregon"	"41"	"White"	"2106-3"			35489	3749684	946.5
+"Total"	"2019"	"2019"	"Oregon"	"41"					37370	4217737	886.0
+	"2019"	"2019"	"Washington"	"53"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	460	87424	526.2
+	"2019"	"2019"	"Washington"	"53"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	523	88595	590.3
+"Total"	"2019"	"2019"	"Washington"	"53"	"American Indian or Alaska Native"	"1002-5"			983	176019	558.5
+	"2019"	"2019"	"Washington"	"53"	"Asian or Pacific Islander"	"A-PI"	"Female"	"F"	1504	448762	335.1
+	"2019"	"2019"	"Washington"	"53"	"Asian or Pacific Islander"	"A-PI"	"Male"	"M"	1437	409900	350.6
+"Total"	"2019"	"2019"	"Washington"	"53"	"Asian or Pacific Islander"	"A-PI"			2941	858662	342.5
+	"2019"	"2019"	"Washington"	"53"	"Black or African American"	"2054-5"	"Female"	"F"	794	192889	411.6
+	"2019"	"2019"	"Washington"	"53"	"Black or African American"	"2054-5"	"Male"	"M"	1165	222027	524.7
+"Total"	"2019"	"2019"	"Washington"	"53"	"Black or African American"	"2054-5"			1959	414916	472.1
+	"2019"	"2019"	"Washington"	"53"	"White"	"2106-3"	"Female"	"F"	25312	3073835	823.5
+	"2019"	"2019"	"Washington"	"53"	"White"	"2106-3"	"Male"	"M"	27068	3091461	875.6
+"Total"	"2019"	"2019"	"Washington"	"53"	"White"	"2106-3"			52380	6165296	849.6
+"Total"	"2019"	"2019"	"Washington"	"53"					58263	7614893	765.1
+"Total"	"2019"	"2019"							365464	51344853	711.8
+	"2020"	"2020"	"California"	"06"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	1134	394857	287.2
+	"2020"	"2020"	"California"	"06"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	1480	401004	369.1
+"Total"	"2020"	"2020"	"California"	"06"	"American Indian or Alaska Native"	"1002-5"			2614	795861	328.4
+	"2020"	"2020"	"California"	"06"	"Asian or Pacific Islander"	"A-PI"	"Female"	"F"	17780	3559235	499.5
+	"2020"	"2020"	"California"	"06"	"Asian or Pacific Islander"	"A-PI"	"Male"	"M"	19118	3260317	586.4
+"Total"	"2020"	"2020"	"California"	"06"	"Asian or Pacific Islander"	"A-PI"			36898	6819552	541.1
+	"2020"	"2020"	"California"	"06"	"Black or African American"	"2054-5"	"Female"	"F"	12294	1439130	854.3
+	"2020"	"2020"	"California"	"06"	"Black or African American"	"2054-5"	"Male"	"M"	14410	1432320	1006.1
+"Total"	"2020"	"2020"	"California"	"06"	"Black or African American"	"2054-5"			26704	2871450	930.0
+	"2020"	"2020"	"California"	"06"	"White"	"2106-3"	"Female"	"F"	116811	14397367	811.3
+	"2020"	"2020"	"California"	"06"	"White"	"2106-3"	"Male"	"M"	136781	14483848	944.4
+"Total"	"2020"	"2020"	"California"	"06"	"White"	"2106-3"			253592	28881215	878.1
+"Total"	"2020"	"2020"	"California"	"06"					319808	39368078	812.4
+	"2020"	"2020"	"Oregon"	"41"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	255	47714	534.4
+	"2020"	"2020"	"Oregon"	"41"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	281	48863	575.1
+"Total"	"2020"	"2020"	"Oregon"	"41"	"American Indian or Alaska Native"	"1002-5"			536	96577	555.0
+	"2020"	"2020"	"Oregon"	"41"	"Asian or Pacific Islander"	"A-PI"	"Female"	"F"	477	135453	352.2
+	"2020"	"2020"	"Oregon"	"41"	"Asian or Pacific Islander"	"A-PI"	"Male"	"M"	476	121012	393.3
+"Total"	"2020"	"2020"	"Oregon"	"41"	"Asian or Pacific Islander"	"A-PI"			953	256465	371.6
+	"2020"	"2020"	"Oregon"	"41"	"Black or African American"	"2054-5"	"Female"	"F"	260	58411	445.1
+	"2020"	"2020"	"Oregon"	"41"	"Black or African American"	"2054-5"	"Male"	"M"	409	67579	605.2
+"Total"	"2020"	"2020"	"Oregon"	"41"	"Black or African American"	"2054-5"			669	125990	531.0
+	"2020"	"2020"	"Oregon"	"41"	"White"	"2106-3"	"Female"	"F"	18092	1897468	953.5
+	"2020"	"2020"	"Oregon"	"41"	"White"	"2106-3"	"Male"	"M"	19970	1865007	1070.8
+"Total"	"2020"	"2020"	"Oregon"	"41"	"White"	"2106-3"			38062	3762475	1011.6
+"Total"	"2020"	"2020"	"Oregon"	"41"					40220	4241507	948.2
+	"2020"	"2020"	"Washington"	"53"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	561	89628	625.9
+	"2020"	"2020"	"Washington"	"53"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	656	90289	726.6
+"Total"	"2020"	"2020"	"Washington"	"53"	"American Indian or Alaska Native"	"1002-5"			1217	179917	676.4
+	"2020"	"2020"	"Washington"	"53"	"Asian or Pacific Islander"	"A-PI"	"Female"	"F"	1661	465242	357.0
+	"2020"	"2020"	"Washington"	"53"	"Asian or Pacific Islander"	"A-PI"	"Male"	"M"	1733	428023	404.9
+"Total"	"2020"	"2020"	"Washington"	"53"	"Asian or Pacific Islander"	"A-PI"			3394	893265	380.0
+	"2020"	"2020"	"Washington"	"53"	"Black or African American"	"2054-5"	"Female"	"F"	881	199294	442.1
+	"2020"	"2020"	"Washington"	"53"	"Black or African American"	"2054-5"	"Male"	"M"	1324	230831	573.6
+"Total"	"2020"	"2020"	"Washington"	"53"	"Black or African American"	"2054-5"			2205	430125	512.6
+	"2020"	"2020"	"Washington"	"53"	"White"	"2106-3"	"Female"	"F"	26844	3085850	869.9
+	"2020"	"2020"	"Washington"	"53"	"White"	"2106-3"	"Male"	"M"	29486	3104455	949.8
+"Total"	"2020"	"2020"	"Washington"	"53"	"White"	"2106-3"			56330	6190305	910.0
+"Total"	"2020"	"2020"	"Washington"	"53"					63146	7693612	820.8
+"Total"	"2020"	"2020"							423174	51303197	824.8
+"Total"									6958375	1004455043	692.8
+"---"
+"Dataset: Underlying Cause of Death, 1999-2020"
+"Query Parameters:"
+"Title: COPD-related deaths from 2000-2020"
+"States: California (06); Oregon (41); Washington (53)"
+"Year/Month: 2000; 2001; 2002; 2003; 2004; 2005; 2006; 2007; 2008; 2009; 2010; 2011; 2012; 2013; 2014; 2015; 2016; 2017; 2018;"
+"2019; 2020"
+"Group By: Year; State; Race; Sex"
+"Show Totals: True"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Feb 12, 2025 6:34:31 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Mortality 1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files,"
+"1999-2020, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"
+"Program. Accessed at http://wonder.cdc.gov/ucd-icd10.html on Feb 12, 2025 6:34:31 PM"
+"---"
+Caveats:
+"1. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#2014-Revision."
+"2. Information included on the death certificate about the race and Hispanic ethnicity of the decedent is reported by the"
+"funeral director as provided by an informant, often the surviving next of kin, or, in the absence of an informant, on the basis"
+"of observation. Race and ethnicity information from the census is by self-report. To the extent that race and Hispanic origin"
+"are inconsistent between these two data sources, death rates will be biased. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Racial Differences."
+"3. The population figures for year 2020 are bridged-race estimates of the July 1 resident population, from the Vintage 2020"
+"postcensal series released by NCHS on September 22, 2021. The population figures for year 2019 are bridged-race estimates of the"
+"July 1 resident population, from the Vintage 2019 postcensal series released by NCHS on July 9, 2020. The population figures for"
+"year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series released by NCHS"
+"on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The"
+"population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal"
+"series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26,"
+"2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012"
+"postcensal series released by NCHS on June 13, 2013. The population figures for year 2011 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2011 postcensal series released by NCHS on July 18, 2012. Population figures for 2010"
+"are April 1 Census counts. The population figures for years 2001 - 2009 are bridged-race estimates of the July 1 resident"
+"population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012. Population"
+"figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of July 1"
+"estimates. Population figures for the infant age groups are the number of live births. <br/><b>Note:</b> Rates and population"
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which"
+"were available at the time of release."
+"4. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group."
