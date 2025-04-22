@@ -18,6 +18,7 @@ The impacts of desertification will be widespread and affect the global populati
 
 
 Project Objectives: 
+
 The primary goal of this project was to develop a database capable of capturing these trends at a more granular level, specifically focusing on the health-related outcomes that are affected by rising temperatures, prolonged drought, and the increasing number of wildfires in the coastal western United States from 2000 to 2020. We sought to understand the trends in conditions more closely associated with these environmental changes, including asthma, COPD, and heat-related illnesses. This was done by gathering monthly data on mortality rates through corresponding ICD codes for each county. The resulting database is structured to facilitate comparisons in these environmental changes with corresponding health outcomes for the respective counties and time periods.
 
 
@@ -27,6 +28,7 @@ More specifically, this database can be used to help researchers understand tren
 
 
 Data:
+
 To understand these trends, we pulled data on wildfire acreage, temperature and precipitation, and mortality rates. Data was obtained as flat files from publicly available state databases. Datasets were created using consistent temporal and geospatial constraints, with monthly rates from 2000 to 2020 at the county level.
 
 
@@ -40,13 +42,16 @@ Mortality data were queried from the Centers for Disease Control (CDC) Wide-rang
 
 
 Data Processing and Database Design:
+
 Data processing was completed using Python, and the relational database was constructed using SQL. The corresponding scripts and tables can be viewed in our GitHub folders. The following folders contain the datasets and the relevant scripts used to create our relational database.
  
 Datasets:
+
 This folder contains each of the raw flat files that were downloaded directly from the databases. 
 
 
 Wrangling:
+
 This contains the Python scripts used to modify each flat file and create the final CSVs. Datasets from each of the databases were relatively clean, but needed to be modified to fit the desired format of our relational database. 
 
 
@@ -66,6 +71,7 @@ Finalized datasets were then converted to CSVs, which were then stored in the â€
 
 
 Cleaned:
+
 Using the finalized CSVs as templates, SQL tables were created and stored in our relational database. This structure allows for efficient data retrieval and cross-referencing of environmental conditions with health outcomes, enabling deeper analysis of the effects of climate change on public health.
 
 
