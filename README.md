@@ -7,6 +7,7 @@ https://gis.data.cnra.ca.gov/datasets/CALFIRE-Forestry::california-fire-perimete
 By clicking Download > GeoJSON
 
 Group 2 Final Documentation
+
 Background and Motivation:  
 Desertification is the process by which previously fertile land degrades into desert land. The World Health Organization (WHO) has identified multiple sources of desertification that have caused this process to accelerate throughout the 20th and 21st centuries. Desertification has been linked to agricultural and livestock overproduction, urbanization, deforestation, and extreme weather events. Desertification can have massive impacts on human health. The WHO has identified potential challenges to human health, including higher threats of malnutrition, more water- and food-borne diseases, an increase in respiratory diseases, and an increase in the spread of infectious diseases. 
 
