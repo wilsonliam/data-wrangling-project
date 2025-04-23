@@ -59,7 +59,7 @@ This contains the Python scripts used to modify each flat file and create the fi
 Temperature and precipitation data were obtained from the OSU PRISM database as yearly raster zip files. Monthly rates were extracted, and the data were mapped from 4-kilometer regions to their corresponding counties. 
 
 
-Wildfire data for Washington and California was provided in GeoJSON files that were converted to CSVs. Date and geospatial shape data were mapped to their respective counties. Wildfire incidents recorded in the Oregon dataset were recorded at the coordinate-level that were then mapped to the corresponding counties. The geopandas and pygris libraries were used to calculate geospatial intersections and obtain county boundary shapes. 
+Wildfire data for Washington and California was provided in GeoJSON files that were converted to CSVs. Date and geospatial shape data were mapped to their respective counties. Wildfire incidents recorded in the Oregon dataset were logged at the county level, whereas for California and Washington, geospatial techniques had to be used. Washington data contained a coordinate location of the center of the fire alongside a total acreage, whereas California contained shapefiles for the fire from which an intersection could be calculated. The geopandas and pygris libraries were used to calculate geospatial intersections and obtain county boundary shapes. 
 
 
 For each of the datasets, excess columns were removed so that the dataframes only contained information on the year, month, state, county, and variable of interest (e.g., wildfire acreage, precipitation, mortality rates). Data types were converted to a consistent format. 
